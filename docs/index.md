@@ -5,7 +5,8 @@ hide:
 
 # Welcome to The Nexus and The Mirror Campaign
 
-!!! info "Player Characters
+!!! info inline end "Player Characters"
+
     <figure markdown>
       <a href="https://half-guinea-press.github.io/nexusandmirror/pc/ansa/">
         <img src="https://half-guinea-press.github.io/nexusandmirror/images/Ansa-head.jpg" alt="Ansa" style="width:100%">
