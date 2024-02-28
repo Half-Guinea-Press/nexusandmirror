@@ -2,7 +2,7 @@
 
 ## Season 1
 
-??? info Session 1.1
+??? info "Session 1.1"
     
     Voldun - Human - cleric
     Gaea - Earth Genasi - warlock
@@ -17,7 +17,7 @@
     
     William and Red Cap are friends. Chad killed William. We killed Red Cap, and took Chad back to town.
     
-??? info Session 1.2
+??? info "Session 1.2"
     
     Chadwick never collected his cart. “Emerald Spears” adventurer crew arrived. Looking for henchmen and guides. Came in the night before, buying up all the spirits and ale. Have map to an old ruin. 
     Hugh, barkeep.
@@ -38,7 +38,7 @@
     
     My Dao, during my unconsciousness, has instructed me on both appearing more strong and on surviving more damage. Thanks to their influence I shall be bigger and stronger. They were satisfied that I continued to protect my smaller friends. I have been rewarded for that bravery by learning to read or listen to any communication. Most amazing is that I can use my ring to bolster the limited healing gifts from Nesirie.
     
-??? info Session 1.3
+??? info "Session 1.3"
     
     Woke up the next morning on Mitchell's front porch. Gaea healed up with warlock pact slots.
     Return to town. 
@@ -50,7 +50,7 @@
     
     Thistlebloom carried a chest down into the tavern. Voldune escorted Hugh out and locked the door. Olympia unlocked the chest, but Wilfiz heard a creature in the box. Thistlebloom didn’t open the box, and started to walk upstairs to investigate with Detect Magic, leaving an unlocked box on the table across from where Gaea was standing. He opened the chest with Thaumaturgy, which fell open and released a White Serpent. Voldun cleared the room with Thunderwave, before destroying all that furniture with Shatter. Wilfiz cast Grease and used the flamethrower of his cannon to ignite it. The snake died, and Gaea began cleaning up the tavern. The party looted the three rooms rented by the Emerald Spears. 
     
-??? info Session 1.4
+??? info "Session 1.4"
     
     Bruk was warned about our combat by village guards and he came out to personally investigate. 
     
@@ -62,7 +62,7 @@
     
     Gaea memorizes one of the villagers that was fired.
     
-??? info Session 1.5
+??? info "Session 1.5"
     
     Fish Monger’s gang laid out Joey’s gang. Went well, didn’t spill out into the rest of the village. Joey’s faction is angry with Bruk and us.
     
@@ -75,13 +75,13 @@
     Heather is talking through the door. She is worried about the Moon eye dwarfs, they have silver eyes. This was hinted at by the Fortune Teller. Heather opens the door and reveals her small self with blue/green eyes. Mooneyes exit the house of mirrors when people go in. 
     We’re returning to the carnival, Gaea is disguised in his clerical vestments.
     
-??? info Session 1.6
+??? info "Session 1.6"
     
     We bust in on the fortune teller to see if she’s in on it. 
     
     Enter the house of mirrors. Mirror Demon attacks, we kill it, it had been haunting the mirrors.
     
-??? info Session 1.7
+??? info "Session 1.7"
     
     Glass land: Soldiers with great swords, pikes, archers, Red Wizards (offense), Blue Wizards(Defensive), Warlock (Great Old One, He Whole Walks Behind) troops. Barracks to the right, with armories and blacksmiths. Miner housing, made of mirrors, holding families. Basic farming plots. Fairly old, up to 30 years. Ambient glow, no primary life source. Octagonal center, 2000 feet high glass ceiling. Outer wall looks into the House of Mirrors. Each wall of the octagon has a similar platform. North-most sheet has a metal wall and aperture gate shielding.
     
@@ -93,7 +93,7 @@
     
     Momom greets us from a neighboring cell. We killed two guards.
     
-??? info Session 1.8 
+??? info "Session 1.8"
     
     We arrive in the rebel stronghold. Momom is not well greeted. Scarda has been building this place for 40 years. Another mirror opened to someplace bad, home to eldritch horrors. Scarda has built a protective aperture gate. This is where the Doppelgangers come from. The mirror demon just kind of haunts the mirror, like Scarda had told us in the House of Mirrors. Momom is a leader of the Doppelgangers, the old ones have the gained personality. Plenty of younger Doppelgangers still function with Scarda and will try to murder Momom’s people.
     Changlings are born in the mirror world of people and Dopps. 
@@ -106,7 +106,7 @@
     
     Gaea met and chummed with Serra’s clerics. 
     
-??? info Season 1 Finale
+??? info "Season 1 Finale"
     
     5 Mass Cure Wounds
     5 Healing Word
@@ -121,7 +121,7 @@
     
 ## Season 2
     
-??? info Session 2.0
+??? info "Session 2.0"
     
     New:
     Druid
@@ -137,7 +137,7 @@
     
     20% larger 12ft x 12ft Ring room
     
-??? info Session 2.1
+??? info "Session 2.1"
     
     Factions staying with us: Clerics and Villagers.
     Weird about stolen lands: At least 3 kingdoms used to exist and have left a currency. Weird, black market entities (four armed slender men) which only trade in the old coin: Cyclops, Lizardman, Elf. Elves captured spirits for magic power, eventually larger spirits were included until doing so released hostile entities that the spirits had been holding back.
@@ -151,7 +151,7 @@
     
     We pull up to a wooden fort in the hills. Nici tells us it is Fort Racharo, an abandoned fort of Brevoy. About 3 days out 
     
-??? info Session 2.2
+??? info "Session 2.2"
     
     The party awakes to find the merrow dead, Gaea killed it on watch to release it from servitude. The river leads us to a waterfall and we discussed leaving the river by the road, but end up putting the wagon into the mirror and Gaea Fly’s down the cliff. Bruk and Voldun go over the waterfall in a barrel. Nici and the centaur sorcerer take the long way around and find an empty fort. 
     
@@ -159,13 +159,13 @@
     
     The two horses had Zephyr Horseshoes which we put onto our horses. The two women joined the village. We continue down the river.
     
-??? info Session 2.3
+??? info "Session 2.3"
     
     A T-Rex bursts out into the river and threatens us. Voldun casts a sleet storm, Bruk turned into a snake to approach it, but it bit him back to dwarf form and he washed down river. Jangle stood on a stalactite arrow and Gaea shot him to the beast. The monstrous, cursed goblin crawled around and abused the T-Rex, which caused it to change into a gigantic toad which bounded off and away.
     
     We rode down the river to the Ruins of the ancient Elven civilization. We see the tracks of a giant bipedal bovine. Spirit orbs create a nexus or computer network, the painted runes are acting like a virus attacking that.
     
-??? info Session 2.4
+??? info "Session 2.4"
     
     Lake around the Elven (Pagnacost) ruins. There are mirrors that redirect light into the canyon. 
     Two Hezrow demons are mid-incantation when we disrupt them. Yakphok (The Minotaurs) bound the Acayo Demons. One nearly struck down Gaea, then a poorly cast Sleep spell from the sorcerer knocked him out. Zniavolieny stepped from the ring to save Gaea from the bound demons and also offered to bring in the party, which they accepted. They have shared knowledge with the party. Obelisks  
@@ -175,7 +175,7 @@
     All are out of the ring, after a long rest, with 30 minutes of Pass Without Trace.
     +1 STR/CON, +1 AC, taller
     
-??? info Session 2.5
+??? info "Session 2.5"
     
     We entered a broken door around the middle of the Ziggurat and headed down in. About 5 floors down we emerge onto a 100’ square room with a large wolf-ish spirit. A raven flies over and lands on the wolf. A nine tailed fox sneaks up behind and giggles before joining the wolf - Fenris.
     
@@ -190,13 +190,13 @@
     We slaughtered a Blood Demon.
     +2 Levels!
     
-??? info Session 2.6
+??? info "Session 2.6"
     
     Necci’s dream of the elven city.
     
     We killed a Demon
     
-??? info Session 2.7
+??? info "Session 2.7"
     
     We settle in for a week of downtime before clearing the city. Necci continues her research. Gaea feeds the kingdom in the mornings and spends the afternoons using Cartographers Tools to translate the Raven powered scouts’ reports into an up-to-date, prepared battle map.
     
@@ -222,28 +222,28 @@
     Equipment:
     Dao’s Shackles: Illusionist's Bracers
     
-??? info Session 2.8
+??? info "Session 2.8"
     
     Boss Fight. We defeat the Yak Folk. Yay! Our city
     
 ## Season 3
     
-??? info Session 3.1
+??? info "Session 3.1"
     
     New Player: Maddie, new PC Ansa (Came into town with trading caravan)
     New PC Norm (Human wrestler from the Myrrlands)
     
     Myrrlands, Moonbright
     
-??? info Session 3.2
+??? info "Session 3.2"
     
     (Missed - Gaea was organizing the Genie Space in the ring)
     
-??? info Session 3.3
+??? info "Session 3.3"
     
     Began amidst a combat with Stag Lord and the Stag Bandits, barbarians. Gaea had many wild magic surges occur - current status is that Gaea perceives allies as undead. Norm is dead. 
     
-??? info Session 3.4
+??? info "Session 3.4"
     
     Letter directing the bandits to steal an owlbear egg and lead it into the city. All five bandit bodies are stored in the Vessel. The safe is from one of the ancient Elves, Gaea placed it into the Vessel. 
     Bruk marries the cleric boss, Serra.
@@ -254,7 +254,7 @@
     
     Ansa meeting the artificer Wilfiz. 
     
-??? info Session 3.5
+??? info "Session 3.5"
     
     Gaea visited Ansa to discuss the perception of undead. She worked out the wild surge curse and dispelled it so that Gaea knows that his allies are living again. 
     
