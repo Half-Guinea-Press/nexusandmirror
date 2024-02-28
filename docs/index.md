@@ -6,23 +6,21 @@ hide:
 
 # Welcome to The Nexus and The Mirror Campaign
 
-<style>
-  .row {
-    display: flex;
-  }
-  
-  .column {
-    flex: 20%;
-    padding: 3px;
-  }
-</style>
-
 <div class="grid cards" markdown>
 
 -   Player Characters
 
     ---
-    
+    <style>
+      .row {
+        display: flex;
+      }
+  
+      .column {
+        flex: 20%;
+        padding: 3px;
+      }
+    </style>
     <div class="row">
       <div class="column">
         <figure markdown>
