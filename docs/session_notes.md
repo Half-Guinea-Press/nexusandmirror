@@ -1,3 +1,8 @@
+---
+hide:
+- navigation
+---
+
 # Session Notes
 
 ## Season 1
