@@ -19,13 +19,13 @@ hide:
 <div class="row">
   <div class="column">
     <figure markdown>
-      <a href="https://half-guinea-press.github.io/zymurgical-oubliette/group-n/pc/ansa/">
+      <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/ansa/">
         <img src="https://half-guinea-press.github.io/zymurgical-oubliette/images/Ansa-head.jpg" alt="Ansa" style="width:100%">
       </a>
       <figcaption>Ansa</figcaption>
     </figure>
     <figure markdown>
-      <a href="https://half-guinea-press.github.io/zymurgical-oubliette/group-n/pc/bruk/">
+      <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/bruk/">
         <img src="https://half-guinea-press.github.io/zymurgical-oubliette/images/bruk_head.jpg" alt="Bruk" style="width:100%">
       </a>
       <figcaption>Bruk</figcaption>
@@ -33,13 +33,13 @@ hide:
   </div>
   <div class="column">
     <figure markdown>
-      <a href="https://half-guinea-press.github.io/zymurgical-oubliette/group-n/pc/gaia/">
+      <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/gaia/">
         <img src="https://half-guinea-press.github.io/zymurgical-oubliette/images/gaia_head.jpg" alt="Gaia" style="width:100%">
       </a>
       <figcaption>Gaia</figcaption>
     </figure>
     <figure markdown>
-      <a href="https://half-guinea-press.github.io/zymurgical-oubliette/group-n/pc/mirvaish/">
+      <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/mirvaish/">
         <img src="https://half-guinea-press.github.io/zymurgical-oubliette/images/mirvaish_head.jpg" alt="Mirvaish" style="width:100%">
       </a>
       <figcaption>Mirvaish</figcaption>
@@ -47,13 +47,13 @@ hide:
   </div>
   <div class="column">
     <figure markdown>
-      <a href="https://half-guinea-press.github.io/zymurgical-oubliette/group-n/pc/nici/">
+      <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/nici/">
         <img src="https://half-guinea-press.github.io/zymurgical-oubliette/images/nici_head.jpg" alt="Nici" style="width:100%">
       </a>
       <figcaption>Nici</figcaption>
     </figure>
     <figure markdown>
-      <a href="https://half-guinea-press.github.io/zymurgical-oubliette/group-n/pc/norm/">
+      <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/norm/">
         <img src="https://half-guinea-press.github.io/zymurgical-oubliette/images/norm_man_head.jpg" alt="Norm" style="width:100%">
       </a>
       <figcaption>Norm</figcaption>
