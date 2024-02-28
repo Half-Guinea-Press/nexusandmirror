@@ -14,37 +14,37 @@ hide:
     
     <figure markdown>
       <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/ansa/">
-        <img src="https://half-guinea-press.github.io/nexusandmirror/images/Ansa-head.jpg" alt="Ansa" style="width:100%">
+        <img src="https://half-guinea-press.github.io/nexusandmirror/images/Ansa-head.jpg" alt="Ansa" style="width:20%">
       </a>
       <figcaption>Ansa</figcaption>
     </figure>
     <figure markdown>
       <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/bruk/">
-        <img src="https://half-guinea-press.github.io/nexusandmirror/images/bruk_head.jpg" alt="Bruk" style="width:100%">
+        <img src="https://half-guinea-press.github.io/nexusandmirror/images/bruk_head.jpg" alt="Bruk" style="width:20%">
       </a>
       <figcaption>Bruk</figcaption>
     </figure>
     <figure markdown>
       <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/gaia/">
-        <img src="https://half-guinea-press.github.io/nexusandmirror/images/gaia_head.jpg" alt="Gaia" style="width:100%">
+        <img src="https://half-guinea-press.github.io/nexusandmirror/images/gaia_head.jpg" alt="Gaia" style="width:20%">
       </a>
       <figcaption>Gaia</figcaption>
     </figure>
     <figure markdown>
       <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/mirvaish/">
-        <img src="https://half-guinea-press.github.io/nexusandmirror/images/mirvaish_head.jpg" alt="Mirvaish" style="width:100%">
+        <img src="https://half-guinea-press.github.io/nexusandmirror/images/mirvaish_head.jpg" alt="Mirvaish" style="width:20%">
       </a>
       <figcaption>Mirvaish</figcaption>
     </figure>
     <figure markdown>
       <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/nici/">
-        <img src="https://half-guinea-press.github.io/nexusandmirror/images/nici_head.jpg" alt="Nici" style="width:100%">
+        <img src="https://half-guinea-press.github.io/nexusandmirror/images/nici_head.jpg" alt="Nici" style="width:20%">
       </a>
       <figcaption>Nici</figcaption>
     </figure>
     <figure markdown>
       <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/norm/">
-        <img src="https://half-guinea-press.github.io/nexusandmirror/images/norm_man_head.jpg" alt="Norm" style="width:100%">
+        <img src="https://half-guinea-press.github.io/nexusandmirror/images/norm_man_head.jpg" alt="Norm" style="width:20%">
       </a>
       <figcaption>Norm</figcaption>
     
