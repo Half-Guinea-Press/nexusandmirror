@@ -1,6 +1,7 @@
 ---
 hide:
   - toc
+  - navigation
 ---
 
 # Welcome to The Nexus and The Mirror Campaign
@@ -11,7 +12,7 @@ hide:
   }
   
   .column {
-    flex: 50%;
+    flex: 20%;
     padding: 3px;
   }
 </style>
