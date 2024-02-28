@@ -98,7 +98,3 @@ hide:
     Ansa has retreated to her hospital; we located an assassin bot from the Elven days. 
     
     Demon Bone Sarcophagus - dungeon in our city
-
-    
-
-??? abstract "Session 8"
