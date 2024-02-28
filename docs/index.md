@@ -63,31 +63,41 @@ hide:
     </div>
 
 
-??? abstract "Session 1"
+## Season 3
 
+??? info "Session 3.1"
     
-
-??? abstract "Session 2"
-
+    New Player: Maddie, new PC Ansa (Came into town with trading caravan)
+    New PC Norm (Human wrestler from the Myrrlands)
     
-
-??? abstract "Session 3"
-
+    Myrrlands, Moonbright
     
-
-??? abstract "Session 4"
-
+??? info "Session 3.2"
     
-
-??? abstract "Session 5"
-
+    (Missed - Gaea was organizing the Genie Space in the ring)
     
-
-??? abstract "Session 6"
-
+??? info "Session 3.3"
     
-
-??? abstract "Session 7"
+    Began amidst a combat with Stag Lord and the Stag Bandits, barbarians. Gaea had many wild magic surges occur - current status is that Gaea perceives allies as undead. Norm is dead. 
+    
+??? info "Session 3.4"
+    
+    Letter directing the bandits to steal an owlbear egg and lead it into the city. All five bandit bodies are stored in the Vessel. The safe is from one of the ancient Elves, Gaea placed it into the Vessel. 
+    Bruk marries the cleric boss, Serra.
+    We approach He That Walks Behind and we gift him a body of the barbarian. 
+    In the darkness beyond the stars, He That Walks Behind encountered a little man with a shiny item and entered to peek beyond to see small people doing things.
+    
+    Henry, the Stag Bandit. Stag Lord works with Green Spears, but is not friendly. 
+    
+    Ansa meeting the artificer Wilfiz. 
+    
+??? info "Session 3.5"
+    
+    Gaea visited Ansa to discuss the perception of undead. She worked out the wild surge curse and dispelled it so that Gaea knows that his allies are living again. 
+    
+    Ansa has retreated to her hospital; we located an assassin bot from the Elven days. 
+    
+    Demon Bone Sarcophagus - dungeon in our city
 
     
 
