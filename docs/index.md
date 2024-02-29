@@ -10,6 +10,8 @@ hide:
 
 -   Current Player Characters
 
+    ---
+
     <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/ansa/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/Ansa-head.jpg" alt="Ansa" style="width:25%"></a>
     <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/bruk/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/bruk_head.jpg" alt="Bruk" style="width:25%"></a>
     <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/gaia/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/gaia_head.jpg" alt="Gaia" style="width:25%"></a>
