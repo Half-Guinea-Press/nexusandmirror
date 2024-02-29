@@ -132,6 +132,20 @@ hide:
 
         ---
 
-
+        Norm was reincarnated as a Firbolg. He met his god, Eric. He has dedicated himself in the service of Eric.
+        
+        Gaea and Ansa talked about his wild magic surge problem with viewing everyone in the party as undead. Ansa cast remove curse to fix that problem.
+        
+        The party discussed how to approach the Green Spears issue. The mountains are unpassible. The concept of building an airship was discussed. This would involve a lot of time and resources. Solidifying the city and establishing trade routes was discussed. There is a need to bring in more people to further establish the city. Going into the dungeon located in the city to amass more treasure to be used to bolster the economy of the city was decided upon.
+        
+        The dungeon is located in a bulky red vault like building in a park. The elves built the keep over the dungeon. Outside the dungeon is a cart like rolling library and a camp fire. This has been setup by Zsofia. Zsofia is a priestess of Ariadne, the goddess of dungeons. Ariadne placed the dungeons in the world as a challange. Each dungeon is associated with one of the 11 moons in the world. The dungeon refills each moon cycle of its associated moon. The dungeon in the city is called the Demon Bone Sarcophagus. The story of the dungeon is that a warrior empress of fire fought ice demons. The warrior empress was from a lost kingdom. She defeated the demons and bound them. She took those bindings to the grave. 
+        
+        The dungeon is located in the top left corner of the city. It is a fairly small dungeon, 2-3 floors, and is rank silver.
+        
+        Nici has mirror shard that acts as a key. Metal doors in teh vault have a shard lock. Many dire baboon skeletons and elven skeletons are inside the vault. 
+        
+        There are 2 statues, one of a feminine boy and one of a masculine girl. The masculine girl statue was smashed. After doing something to the boy statue, a dire baboon came out from behind it. Combat ensued and the party defeated the dire baboon.
+        
+        While in the dungeon, natural healing with hit dice doesn't work.
 
 </div>
