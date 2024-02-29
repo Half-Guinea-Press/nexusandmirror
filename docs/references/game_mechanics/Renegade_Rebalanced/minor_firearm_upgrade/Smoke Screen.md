@@ -1,0 +1,3 @@
+# Minor Firearm Upgrade: Smoke Screen
+
+As an action, you alter the firing mechanism of your gun to release a burst of ash and smoke. This cloud forms a 10-foot cube centered on a point of your choice within the firearm’s range, spreading around corners, and the area covered by this cube is considered heavily obscured. This smoke lasts for 10 minutes and cannot be dispersed. Once you use this feature, you cannot use it again until you finish a short or long rest.
