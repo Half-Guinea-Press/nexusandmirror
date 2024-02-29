@@ -10,13 +10,13 @@ hide:
 
 -   Player Characters
 
-    <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/ansa/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/Ansa-head.jpg" alt="Ansa" style="width:25%"></a>
-    <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/bruk/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/bruk_head.jpg" alt="Bruk" style="width:25%"></a>
-    <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/gaia/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/gaia_head.jpg" alt="Gaia" style="width:25%"></a>
-    <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/mirvaish/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/mirvaish_head.jpg" alt="Mirvaish" style="width:25%"></a>
-    <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/nici/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/nici_head.jpg" alt="Nici" style="width:25%"></a>
-    <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/norm/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/norm_man_head.jpg" alt="Norm" style="width:25%"></a>
-    <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/tuck/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/Tuck_head.jpg" alt="Tuck" style="width:25%"></a>
+    <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/ansa/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/Ansa-head.jpg" alt="Ansa" style="width:30%"></a>
+    <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/bruk/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/bruk_head.jpg" alt="Bruk" style="width:30%"></a>
+    <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/gaia/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/gaia_head.jpg" alt="Gaia" style="width:30%"></a>
+    <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/mirvaish/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/mirvaish_head.jpg" alt="Mirvaish" style="width:30%"></a>
+    <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/nici/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/nici_head.jpg" alt="Nici" style="width:30%"></a>
+    <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/norm/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/norm_man_head.jpg" alt="Norm" style="width:30%"></a>
+    <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/tuck/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/Tuck_head.jpg" alt="Tuck" style="width:30%"></a>
 
 -   Season 3
 
