@@ -22,7 +22,9 @@ hide:
 
     AC: 18 (Studded Leather) HP Max:   Hit Dice:3d8, 7d10
 
--   Proficiencies
+    ---
+
+    Proficiencies
 
     ---
 
