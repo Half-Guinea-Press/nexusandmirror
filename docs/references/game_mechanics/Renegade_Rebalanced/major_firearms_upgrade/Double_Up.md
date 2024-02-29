@@ -1,0 +1,3 @@
+# Major Firearm Upgrade: Double Up
+
+When you hit a creature with a successful ranged weapon attack with a firearm, you can immediately cause the bullet to hit another creature within 15 feet of the original target. The second target takes piercing damage equal to twice your Dexterity modifier (minimum of two). You can redirect a bullet in this way a number of times equal to your Intelligence modifier, and regain all expended uses after a short or long rest.

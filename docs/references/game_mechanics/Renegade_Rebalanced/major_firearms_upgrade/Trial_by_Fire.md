@@ -1,0 +1,3 @@
+# Major Firearm Upgrade: Trial by Fire
+
+As a bonus action, you can charge your weapons with blazing force. Until the start of your next turn, whenever you make a successful attack, you deal extra fire damage equal to half your fighter level, rounded up. You can charge your weapons this way a number of times equal to your Intelligence modifier (minimum of once), and regain all uses after a short or long rest.

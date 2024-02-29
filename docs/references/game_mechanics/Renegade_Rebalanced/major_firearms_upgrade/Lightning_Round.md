@@ -1,0 +1,3 @@
+# Major Firearm Upgrade: Lightning Round
+
+You equip your firearm with a volatile piece of stolen Hextech, allowing you to release a piercing bolt of electricity as an action on your turn. The lightning fires from you in a straight line that is 1 foot wide and 30 feet long. Each creature in the line must make a Dexterity saving throw, taking 4d8 lightning damage on a failure and half as much on a success. Once you use this feature, you cannot use it again until you finish a short or long rest. This damage increases to 7d8 at level 11.
