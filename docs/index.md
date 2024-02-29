@@ -16,6 +16,7 @@ hide:
     <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/mirvaish/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/mirvaish_head.jpg" alt="Mirvaish" style="width:25%"></a>
     <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/nici/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/nici_head.jpg" alt="Nici" style="width:25%"></a>
     <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/norm/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/norm_man_head.jpg" alt="Norm" style="width:25%"></a>
+    <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/tuck/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/tuck.jpg" alt="Tuck" style="width:25%"></a>
 
 -   Season 3
 
