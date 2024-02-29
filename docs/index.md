@@ -8,19 +8,7 @@ hide:
 
 <div class="grid cards" markdown>
 
--   Current Player Characters
-
-    ---
-
-    <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/ansa/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/Ansa-head.jpg" alt="Ansa" style="width:20%"></a>
-    <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/bruk/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/bruk_head.jpg" alt="Bruk" style="width:20%"></a>
-    <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/gaia/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/gaia_head.jpg" alt="Gaia" style="width:20%"></a>
-    <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/mirvaish/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/mirvaish_head.jpg" alt="Mirvaish" style="width:20%"></a>
-    <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/nici/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/nici_head.jpg" alt="Nici" style="width:20%"></a>
-    <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/norm/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/norm_man_head.jpg" alt="Norm" style="width:20%"></a>
-    <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/tuck/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/Tuck_head.jpg" alt="Tuck" style="width:20%"></a>
-
--   Season 3
+-   Season 3 Notes
 
     ---
     
@@ -149,5 +137,17 @@ hide:
         There are 2 statues, one of a feminine boy and one of a masculine girl. The masculine girl statue was smashed. After doing something to the boy statue, a dire baboon came out from behind it. Combat ensued and the party defeated the dire baboon.
         
         While in the dungeon, natural healing with hit dice doesn't work.
+
+-   Current Player Characters
+
+    ---
+
+    <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/ansa/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/Ansa-head.jpg" alt="Ansa" style="width:20%"></a>
+    <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/bruk/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/bruk_head.jpg" alt="Bruk" style="width:20%"></a>
+    <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/gaia/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/gaia_head.jpg" alt="Gaia" style="width:20%"></a>
+    <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/mirvaish/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/mirvaish_head.jpg" alt="Mirvaish" style="width:20%"></a>
+    <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/nici/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/nici_head.jpg" alt="Nici" style="width:20%"></a>
+    <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/norm/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/norm_man_head.jpg" alt="Norm" style="width:20%"></a>
+    <a href="https://half-guinea-press.github.io/nexusandmirror/people/Player_Characters/tuck/"><img src="https://half-guinea-press.github.io/nexusandmirror/images/Tuck_head.jpg" alt="Tuck" style="width:20%"></a>
 
 </div>
