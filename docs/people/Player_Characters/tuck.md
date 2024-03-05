@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards" markdown>
 
--   <figure markdown><a href="https://half-guinea-press.github.io/zymurgical-oubliette/images/Tuck.jpg"><img src="https://half-guinea-press.github.io/zymurgical-oubliette/images/Tuck_head.jpg" alt="Tuck"></a>  <figcaption>Tuck - ESTOC Class 4th Line 2nd Iteration</figcaption></figure>
+-   <figure markdown><a href="https://half-guinea-press.github.io/nexusandmirror/images/Tuck.jpg"><img src="https://half-guinea-press.github.io/nexusandmirror/images/Tuck_head.jpg" alt="Tuck"></a>  <figcaption>Tuck - ESTOC Class 4th Line 2nd Iteration</figcaption></figure>
 
 
 -   Lvl 5 Gadgeteer(Futarist)/Lvl 5 Fighter(Battlemaster)<br>
