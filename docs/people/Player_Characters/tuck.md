@@ -7,7 +7,8 @@ hide:
 
 <div class="grid cards" markdown>
 
--   <figure markdown><a href="https://half-guinea-press.github.io/zymurgical-oubliette/images/Tuck.jpg"><img src="https://half-guinea-press.github.io/zymurgical-oubliette/images/Tuck.jpg" alt="Tuck 4-2"></a>  <figcaption>Tuck 4-2</figcaption></figure>
+-   <figure markdown><a href="https://half-guinea-press.github.io/zymurgical-oubliette/images/Tuck.jpg"><img src="https://half-guinea-press.github.io/zymurgical-oubliette/images/Tuck_head.jpg" alt="Tuck - ESTOC Class 4th Line 2nd Iteration"></a>  <figcaption>Tuck - ESTOC Class 4th Line 2nd Iteration</figcaption></figure>
+
 
 -   Lvl 5 Gadgeteer(Futarist)/Lvl 5 Fighter(Battlemaster)<br>
     Vect     Medium    Lawful Evil    Ruined Background
