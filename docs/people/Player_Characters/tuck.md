@@ -69,8 +69,8 @@ hide:
     - Blink Button: action to teleport up to 15ft to unoccupied space
     - Feedback Electrodes: as reaction to damage 2d6 lightning to assailant as long as within 5ft
     - Gravity Manipulator: 
-        - Levitate: 30ft range, large or smaller, <500 Lbs, 1 min duration
-        - Repel push 60 ft if tiny/small, 30 ft if med, 15 ft if large, 2d8 blugeoning
+        - Levitate: 30' rng, <=lrg, <500 Lbs, 1 min
+        - Repel: push 60' T/s, 30' M, 15' L 2d8 blugeoning
     - Transmat Deck: Bag of holding
 
 -   Equipment
