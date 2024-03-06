@@ -1,6 +1,7 @@
 ---
 hide:
   - toc
+  - navigation
 ---
 
 # Tuck - ESTOC Class 4th Line 2nd Iteration
@@ -29,46 +30,37 @@ hide:
     
     Languages: Common, (AI knows all langauges)
 
--   Racial Features
+-   Features
+
+    Racial
+
+    Reconfigurable Ability Score Increase<br>
+    Thermalsight<br>
+    Construct Anatomy<br>
+    Inflexible Mind<br>
+    Embedded Armor: Juggernaut Frame
 
     ---
 
-    - Reconfigurable Ability Score Increase
-    - Thermalsight
-    - Construct Anatomy
-    - Inflexible Mind
-    - Embedded Armor
+    Fighter/Battlemaster Features
 
--   Fighter/Battlemaster Features
-
-    ---
-
-    - Fighting Style: Close Qtr
-    - Second Wind
-    - Action Surge
-    - Extra Attack
-    - Combat Superiority
-    - Maneuvers: Parry, Precision Attack, Maneuvering Attack
-
--   Gadgeteer/Futarist Features
+    Fighting Style: Close Qtr<br>
+    Second Wind<br>
+    Action Surge<br>
+    Extra Attack<br>
+    Combat Superiority<br>
+    Maneuvers: Parry, Precision Attack, Maneuvering Attack
 
     ---
 
-    - AI Companion
-    - Gadgets
-    - Overcharge
-    - Prototype: Utility Matrix
-    - Advanced Subroutines
-    - Novel Inteligence: Arcana
+    Gadgeteer/Futarist Features
 
--   Gadgets
-
-    ---
-
-    - Blink Button
-    - Feedback Electrodes
-    - Gravity Manipulator
-    - Transmat Deck
+    AI Companion<br>
+    Gadgets: Blink Button, Feedback Electrodes, Gravity Manipulator, Transmat Deck<br>
+    Overcharge<br>
+    Prototype: Utility Matrix<br>
+    Advanced Subroutines<br>
+    Novel Inteligence: Arcana
 
 -   Equipment
 
