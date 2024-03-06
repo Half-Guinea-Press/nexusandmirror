@@ -46,15 +46,11 @@ Combat Stats
 
 Attacks
 
-| Name                | Atk/ Dam (Type)      | Range  | Properties                            | Notes                                   |
-| :-----------------  | :-----------------   |:------ | :------------------------------------ | :-------------------------------------- |
-| Antimatter Carbine  | +10/ 2d6 (Necrotic)  | 30/120 | Automatic, Blaster ,Foregrip          | Overcharge: Per turn blaster dam +2 die |
-| Blitz Cannon        | +10/ 2d8 (Lightning) | 10/30  | Blaster, Hvy, Scatter(2d10), 2-Handed | Foregrip: When used 2-handed +50'/+200' |
-| Arm Blade (L Arm)   | +9/ 1d6+5 (Slashing) | 5      | No Disarm, Fineese, Light             | Scatter: Higher damage within 5'        |
-
-Close Qtr Fighting Style: Ignore 1/2 & 3/4 Cover within 30', no d.adv within 5' of attacker<br>
-Action Surge: Take 1 additional action (per S/L rest)<br>
-Extra Attack: Take 2 atks when taking atk action
+| Name                | Atk/ Dam (Type)      | Range  | Properties                            | Notes                                   |                                                                        |
+| :-----------------  | :-----------------   |:------ | :------------------------------------ | :-------------------------------------- | :--------------------------------------------------------------------- |
+| Antimatter Carbine  | +10/ 2d6 (Necrotic)  | 30/120 | Automatic, Blaster ,Foregrip          | Overcharge: Per turn blaster dam +2 die | Close Qtr: Ignore 1/2 & 3/4 cover w/n 30', no d.adv w/n 5' of attacker |
+| Blitz Cannon        | +10/ 2d8 (Lightning) | 10/30  | Blaster, Hvy, Scatter(2d10), 2-Handed | Foregrip: When used 2-handed +50'/+200' | Action Surge: Take 1 additional action (per S/L rest)                  |
+| Arm Blade (L Arm)   | +9/ 1d6+5 (Slashing) | 5      | No Disarm, Fineese, Light             | Scatter: Higher damage within 5'        | Extra Attack: Take 2 atks when taking atk action                       |
 
 <div class="grid cards" markdown>
 
