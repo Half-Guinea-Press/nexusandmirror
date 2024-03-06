@@ -20,35 +20,31 @@ hide:
     Initiative: +2<br>
     Hit Points (5d6/5d10)<br>
     Speed 30<br>
-    4 hr rest while aware<br>
+    4 hr rest while aware
+
+Attacks
+
+| Name                | Atk/ Dam (Type)      | Range  | Properties                            | Notes                                   |
+| :-----------------  | :-----------------   |:------ | :------------------------------------ | :-------------------------------------- |
+| Antimatter Carbine  | +10/ 2d6 (Necrotic)  | 30/120 | Automatic, Blaster ,Foregrip          | Overcharge: Per turn blaster dam +2 die |
+| Blitz Cannon        | +10/ 2d8 (Lightning) | 10/30  | Blaster, Hvy, Scatter(2d10), 2-Handed | Foregrip: When used 2-handed +50'/+200' |
+| Arm Blade (L Arm)   | +9/ 1d6+5 (Slashing) | 5      | No Disarm, Fineese, Light             | Scatter: Higher damage within 5'        |
+
+Close Qtr Fighting Style: Ignore 1/2 & 3/4 Cover within 30', no d.adv within 5' of attacker<br>
+Action Surge: Take 1 additional action (per S/L rest)<br>
+Extra Attack: Take 2 atks when taking atk action
+
+Superiority Dice: 4d8
+- Maneuvering Attack: upon hit expend s. die, add to dam, friendly use reaction to move 1/2 spd w/o opp atk from hit opponent
+- Precision Attack: upon atk roll expend s. die, add to atk, can be befor or after atk roll
+
+Advanced Subroutines: One active at a time
+
+- Genetic Algorithm: Cumulative +1 dam reduction max +3(Int) when taking damage, reset 1 min
+- Heatmap: when adv on atk add prof bonus to damage
+- Neural Network: cumulative +1 atk bonus max +3(Int) when miss, reset 1 min
 
 <div class="grid cards" markdown>
-
--   Attacks
-
-    | Name                | Atk/ Dam (Type)      | Range  | Properties                              |
-    | :-----------------  | :-----------------   |:------ | :-------------------------------------- |
-    | Antimatter Carbine  | +10/ 2d6 (Necrotic)  | 30/120 | Automatic, Blaster ,Foregrip            |
-    | Blitz Cannon        | +10/ 2d8 (Lightning) | 10/30  | Blaster, Hvy, Scatter(2d10), Two-Handed |
-    | Arm Blade (L Arm)   | +9/ 1d6+5 (Slashing) | 5      | No Disarm, Fineese, Light               |
-
-    Close Qtr Fighting Style: Ignore 1/2 & 3/4 Cover within 30', no d.adv within 5' of attacker<br>
-    Action Surge: Take 1 additional action (per S/L rest)<br>
-    Extra Attack: Take 2 atks when taking atk action
-
-    Superiority Dice: 4d8
-    - Maneuvering Attack: upon hit expend s. die, add to dam, friendly use reaction to move 1/2 spd w/o opp atk from hit opponent
-    - Precision Attack: upon atk roll expend s. die, add to atk, can be befor or after atk roll
-
-    Overcharge: Once per turn blaster dammage +2 dice<br>
-    Foregrip: When used 2-handed +50'/+200'<br>
-    Scatter: Higher damage within 5'
-
-    Advanced Subroutines: One active at a time
-
-    - Genetic Algorithm: Cumulative +1 dam reduction max +3(Int) when taking damage, reset 1 min
-    - Heatmap: when adv on atk add prof bonus to damage
-    - Neural Network: cumulative +1 atk bonus max +3(Int) when miss, reset 1 min
 
 -   Actions
 
