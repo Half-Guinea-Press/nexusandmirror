@@ -34,10 +34,10 @@ hide:
 
 Combat Stats
 
-| Init | Armor Class | HP | Spd |
-| :- | :- | :- | :- |
-| +2 | 19 |   | 30 |
-|   | J. Frame |   |   |
+Initiative: +2
+AC: 19(Juggernaut Frame)
+Speed: 30
+Hit Point Max:
 
 Attacks
 
@@ -51,13 +51,13 @@ Close Qtr Fighting Style: Ignore 1/2 & 3/4 Cover within 30', no d.adv within 5' 
 Action Surge: Take 1 additional action (per S/L rest)<br>
 Extra Attack: Take 2 atks when taking atk action
 
-??? Maneuvers
+??? abstract "Maneuvers"
 
     - Superiority Dice: 4d8
     - Maneuvering Attack: upon hit expend s. die, add to dam, friendly use reaction to move 1/2 spd w/o opp atk from hit opponent
     - Precision Attack: upon atk roll expend s. die, add to atk, can be befor or after atk roll
 
-??? Advanced Subroutines: One active at a time
+??? abstract "Advanced Subroutines: One active at a time"
 
     - Genetic Algorithm: Cumulative +1 dam reduction max +3(Int) when taking damage, reset 1 min
     - Heatmap: when adv on atk add prof bonus to damage
