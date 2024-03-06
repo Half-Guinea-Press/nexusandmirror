@@ -41,13 +41,17 @@ hide:
     Maneuvering Attack: upon sucessfull hit expend s. die, add 1d8 to damage, choose friendly to use reaction to move 1/2 spd w/o opp atk from hit opponent<br>
     Precision Attack: upon atk roll expend s. die to add 1d8 to atk roll, can be befor or after atk roll<br>
 
--   Attacks
+</div>
 
-    | Name               | Atk | Damage                                                         | Range             | Properties                 |
-    | :----------------- | :-- | :------------------------------------------------------------- |:----------------- |:-------------------------- |
-    | Antimatter Carbine | +10 | 2d6(4d6[^Overcharge] Necrotic                                  | 30/120[^Foregrip] | Automatic, Foregrip        |
-    | Blitz Cannon       | +10 | 2d8(4d8[^Overcharge]/2d10[^Scatter](4d10[Overcharge] Lightning | 10/30             | Heavy, Scatter, Two-Handed |
-    | Arm Blade(L Arm)   | +9  | 1d6+5 Slashing                                                 | 5                 | No Disarm, Fineese, Light  |
+Attacks
+
+| Name               | Atk | Damage                                                           | Range                     | Properties                 |
+| :----------------- | :-- | :--------------------------------------------------------------- |:------------------------- |:-------------------------- |
+| Antimatter Carbine | +10 | 2d6(4d6[^Overcharge]) Necrotic                                   | 30/120(70/320)[^Foregrip] | Automatic, Foregrip        |
+| Blitz Cannon       | +10 | 2d8(4d8[^Overcharge]/2d10[^Scatter](4d10[^Overcharge] Lightning  | 10/30                     | Heavy, Scatter, Two-Handed |
+| Arm Blade(L Arm)   | +9  | 1d6+5 Slashing                                                   | 5                         | No Disarm, Fineese, Light  |
+
+<div class="grid cards" markdown>
 
 -   Actions
 
@@ -78,3 +82,4 @@ hide:
 
 [^Overcharge]: Once per turn blaster dammage +2 dice
 [^Foregrip]: range increase when shot 2-handed +50/+200
+[^Scatter]: increased damage if w/n 5ft
