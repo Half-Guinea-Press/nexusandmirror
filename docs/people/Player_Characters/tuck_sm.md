@@ -38,11 +38,11 @@ Medium Vect Lawful Evil Lvl 5 Gadgeteer(Futarist)/Lvl 5 Fighter(Battlemaster)
 
 -   Attacks
 
-    | Name               | Atk/Dam(Type)      | Range  | Properties                                |
-    | :----------------- | :----------------- |:------ | :---------------------------------------- |
-    | Antimatter Carbine | +10/2d6(Necrotic)  | 30/120 | Automatic, Blaster ,Foregrip              |
-    | Blitz Cannon       | +10/2d8(Lightning) | 10/30  | Blaster, Heavy, Scatter(2d10), Two-Handed |
-    | Arm Blade(L Arm)   | +9/1d6+5(Slashing) | 5      | No Disarm, Fineese, Light                 |
+    | Name                | Atk/ Dam (Type)      | Range  | Properties                              |
+    | :-----------------  | :-----------------   |:------ | :-------------------------------------- |
+    | Antimatter Carbine  | +10/ 2d6 (Necrotic)  | 30/120 | Automatic, Blaster ,Foregrip            |
+    | Blitz Cannon        | +10/ 2d8 (Lightning) | 10/30  | Blaster, Hvy, Scatter(2d10), Two-Handed |
+    | Arm Blade (L Arm)   | +9/ 1d6+5 (Slashing) | 5      | No Disarm, Fineese, Light               |
 
     Maneuvering Attack: upon hit expend s. die, add to dam, friendly use reaction to move 1/2 spd w/o opp atk from hit opponent<br>
     Precision Attack: upon atk roll expend s. die, add to atk, can be befor or after atk roll<br>    
@@ -73,6 +73,7 @@ Medium Vect Lawful Evil Lvl 5 Gadgeteer(Futarist)/Lvl 5 Fighter(Battlemaster)
 -   Equipment:
 
     Transmat Deck(Bag of holding)<br>
-    Arm Blade(Left Arm)
+    Arm Blade(Left Arm Slot)
+    Juggernaut Frame(Exterior Slot)
 
 </div>
