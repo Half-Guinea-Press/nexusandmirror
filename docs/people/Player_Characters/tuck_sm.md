@@ -8,16 +8,14 @@ hide:
 
 !!! abstract inline end "Medium Vect Lawful Evil"
 
-    Lvl 5 Gadgeteer(Futarist)/Lvl 5 Fighter(Battlemaster)
+    Lvl 5 Gadgeteer(Futarist)/ Lvl 5 Fighter(Battlemaster)
 
-    Str 18(+4) Dex 20(+5) Con 19(+4)
-
+    Str 18(+4) Dex 20(+5) Con 19(+4)<br>
     Int 19(+4) Wis 14(+2) Chr 13(+1)
 
     Proficiency Bonus +4
 
-    Saves: Str +8, Dex +9, Con +8
-
+    Saves: Str +8, Dex +9, Con +8<br>
     +4 vs spell
 
     Skills: Athletics +7, Perception +7, Stealth +9, Survival +6, Tech +7
@@ -30,15 +28,16 @@ hide:
 
     Languages: Common
 
-    Armor Class 19 (Juggernaut Frame)
-
-    Initiative: +2
-
-    Hit Points (5d6/5d10)
-
-    Speed 30
+    Hit Dice: 5d6/5d10
 
     4 hr rest while aware
+
+Combat Stats
+
+| Init | Armor Class | HP | Spd |
+| :- | :- | :- | :- |
+| +2 | 19 |   | 30 |
+|   | J. Frame |   |   |
 
 Attacks
 
@@ -52,16 +51,17 @@ Close Qtr Fighting Style: Ignore 1/2 & 3/4 Cover within 30', no d.adv within 5' 
 Action Surge: Take 1 additional action (per S/L rest)<br>
 Extra Attack: Take 2 atks when taking atk action
 
-Superiority Dice: 4d8
+??? Maneuvers
 
-- Maneuvering Attack: upon hit expend s. die, add to dam, friendly use reaction to move 1/2 spd w/o opp atk from hit opponent
-- Precision Attack: upon atk roll expend s. die, add to atk, can be befor or after atk roll
+    - Superiority Dice: 4d8
+    - Maneuvering Attack: upon hit expend s. die, add to dam, friendly use reaction to move 1/2 spd w/o opp atk from hit opponent
+    - Precision Attack: upon atk roll expend s. die, add to atk, can be befor or after atk roll
 
-Advanced Subroutines: One active at a time
+??? Advanced Subroutines: One active at a time
 
-- Genetic Algorithm: Cumulative +1 dam reduction max +3(Int) when taking damage, reset 1 min
-- Heatmap: when adv on atk add prof bonus to damage
-- Neural Network: cumulative +1 atk bonus max +3(Int) when miss, reset 1 min
+    - Genetic Algorithm: Cumulative +1 dam reduction max +3(Int) when taking damage, reset 1 min
+    - Heatmap: when adv on atk add prof bonus to damage
+    - Neural Network: cumulative +1 atk bonus max +3(Int) when miss, reset 1 min
 
 <div class="grid cards" markdown>
 
