@@ -8,13 +8,10 @@ hide:
 <div class="grid cards" markdown>
 
 -   <figure markdown><a href="https://half-guinea-press.github.io/nexusandmirror/images/Tuck.jpg"><img src="https://half-guinea-press.github.io/nexusandmirror/images/Tuck_head.jpg" alt="Tuck"></a>  <figcaption>Tuck - ESTOC Class 4th Line 2nd Iteration</figcaption></figure>
-
-
--   Lvl 5 Gadgeteer(Futarist)/Lvl 5 Fighter(Battlemaster)<br>
+    Lvl 5 Gadgeteer(Futarist)/Lvl 5 Fighter(Battlemaster)<br>
     Vect     Medium    Lawful Evil    Ruined Background
-    
-    ---
 
+-   
     Str 18(+4) Dex 20(+5) Con 19(+4)<br>
     Int 17(+3) Wis 14(+2) Chr 13(+1)
 
@@ -22,13 +19,14 @@ hide:
     Prof: +4 Init: +2 Spd: 30<br>
     AC: 19 (Juggernaut Frame) HP Max:   Hit Dice: 5d6 5d10
 
-    Feats: Golem Upgrade, Resilient(Dex), Tough
-
+    Feats: Golem Upgrade, Resilient(Dex), Tough<br>
     ---
     Skills: Arcana +3(AI 10), Athletics +7(P), Perception +7(P), Stealth +9(P), Survival +6(P), Technology 7(P)
 
-    Weapons/Armor: All simple and martial weapons and blasters, Light/Medium/Heavy armors, shields<br>
-    Tools: Alchemist's Supplies, Cicuitry Kit, Machinist Tools, Ship Maintenance, Smith's Tools, Thieves' Tools, Game Set (Cards)<br>
+    Weapons/Armor: All simple and martial weapons and blasters, Light/Medium/Heavy armors, shields
+    
+    Tools: Alchemist's Supplies, Cicuitry Kit, Machinist Tools, Ship Maintenance, Smith's Tools, Thieves' Tools, Game Set (Cards)
+    
     Languages: Common, (AI knows all langauges)
 
 -   Racial Features
