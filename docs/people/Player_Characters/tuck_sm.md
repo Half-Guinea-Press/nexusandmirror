@@ -6,16 +6,13 @@ hide:
 
 # Tuck - ESTOC Class 4th Line 2nd Iteration
 
+Medium Vect Lawful Evil Lvl 5 Gadgeteer(Futarist)/Lvl 5 Fighter(Battlemaster)
+
 <div class="grid cards" markdown>
 
--   Medium Vect Lawful Evil Lvl 5 Gadgeteer(Futarist)/Lvl 5 Fighter(Battlemaster)
+-   Str 18(+4) Dex 20(+5) Con 19(+4) Int 19(+4) Wis 14(+2) Chr 13(+1)<br>
 
-    Armor Class 19 (Juggernaut Frame)<br>
-    Initiative: +2
-    Hit Points (5d6/5d10)<br>
-    Speed 30
-
-    Str 18(+4) Dex 20(+5) Con 19(+4) Int 19(+4) Wis 14(+2) Chr 13(+1) P. Bonus +4<br>
+    P. Bonus +4<br>
     Saves: Str +8, Dex +9, Con +8, +P. Bonus vs spell<br>
     Skills: Arcana +3(10), Athletics +7, Perception +7, Stealth +9, Survival +6, Technology +7<br>
     Resistances: Exhaustion<br>
@@ -37,9 +34,7 @@ hide:
     Close Qtr Fighting Style: Ignore 1/2 & 3/4 Cover within 30', no d.adv within 5' of attacker<br>
     Action Surge: Take 1 additional action (per S/L rest)<br>
     Extra Attack: Take 2 atks when taking atk action<br>
-    Superiority Dice: 4d8<br>
-    Maneuvering Attack: upon sucessfull hit expend s. die, add 1d8 to damage, choose friendly to use reaction to move 1/2 spd w/o opp atk from hit opponent<br>
-    Precision Attack: upon atk roll expend s. die to add 1d8 to atk roll, can be befor or after atk roll<br>
+    Superiority Dice: 4d8
 
 </div>
 
@@ -50,6 +45,9 @@ Attacks
 | Antimatter Carbine | +10 | 2d6(4d6[^Overcharge]) Necrotic                                   | 30/120(70/320)[^Foregrip] | Automatic, Foregrip        |
 | Blitz Cannon       | +10 | 2d8(4d8[^Overcharge]/2d10[^Scatter](4d10[^Overcharge] Lightning  | 10/30                     | Heavy, Scatter, Two-Handed |
 | Arm Blade(L Arm)   | +9  | 1d6+5 Slashing                                                   | 5                         | No Disarm, Fineese, Light  |
+
+Maneuvering Attack: upon sucessfull hit expend s. die, add 1d8 to damage, choose friendly to use reaction to move 1/2 spd w/o opp atk from hit opponent<br>
+Precision Attack: upon atk roll expend s. die to add 1d8 to atk roll, can be befor or after atk roll
 
 <div class="grid cards" markdown>
 
@@ -80,6 +78,6 @@ Attacks
 
 </div>
 
-[^Overcharge]: Once per turn blaster dammage +2 dice
-[^Foregrip]: range increase when shot 2-handed +50/+200
-[^Scatter]: increased damage if w/n 5ft
+[^Overcharge]: Over charge - Once per turn blaster dammage +2 dice
+[^Foregrip]: Foregrip - range increase when shot 2-handed +50/+200
+[^Scatter]: Scatter - increased damage if w/n 5ft
