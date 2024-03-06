@@ -6,9 +6,7 @@ hide:
 
 # Tuck - ESTOC Class 4th Line 2nd Iteration
 
-
-
-??? abstract "Medium Vect Lawful Evil Lvl 5 Gadgeteer(Futarist)/Lvl 5 Fighter(Battlemaster)"
+??? abstract inline end "Medium Vect Lawful Evil Lvl 5 Gadgeteer(Futarist)/Lvl 5 Fighter(Battlemaster)"
 
     Str 18(+4) Dex 20(+5) Con 19(+4) Int 19(+4) Wis 14(+2) Chr 13(+1)<br>
     Proficiency Bonus +4<br>
