@@ -15,14 +15,9 @@ hide:
 
     Proficiency Bonus +4
 
-    Saves: Str +8, Dex +9, Con +8<br>
-    +4 vs spell
+
 
     Skills: Athletics +7, Perception +7, Stealth +9, Survival +6, Tech +7
-
-    Resistances: Exhaustion
-
-    Immunities: Charmed, Non-Magical Disease, Poison, Sleep, Hunger, Dehydration, Suffocation
 
     Senses: Thermalsight(30ft), Passive Perception 17
 
@@ -38,6 +33,12 @@ Initiative: +2
 AC: 19(Juggernaut Frame)
 Speed: 30
 Hit Point Max:
+
+Saves: Str +8, Dex +9, Con +8<br>
++4 vs spell
+
+Resistances: Exhaustion<br>
+Immunities: Charmed, Non-Magical Disease, Poison, Sleep, Hunger, Dehydration, Suffocation
 
 Attacks
 
