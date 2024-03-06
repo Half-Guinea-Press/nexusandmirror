@@ -7,11 +7,12 @@ hide:
 
 <div class="grid cards" markdown>
 
--   <figure markdown><a href="https://half-guinea-press.github.io/nexusandmirror/images/Tuck.jpg"><img src="https://half-guinea-press.github.io/nexusandmirror/images/Tuck_head.jpg" alt="Tuck"></a>  <figcaption>Tuck - ESTOC Class 4th Line 2nd Iteration</figcaption></figure>
+-   <a href="https://half-guinea-press.github.io/nexusandmirror/images/Tuck.jpg"><img src="https://half-guinea-press.github.io/nexusandmirror/images/Tuck_head.jpg" alt="Tuck"></a><br>
     Lvl 5 Gadgeteer(Futarist)/Lvl 5 Fighter(Battlemaster)<br>
     Vect     Medium    Lawful Evil    Ruined Background
 
--   
+-   ""
+
     Str 18(+4) Dex 20(+5) Con 19(+4)<br>
     Int 17(+3) Wis 14(+2) Chr 13(+1)
 
