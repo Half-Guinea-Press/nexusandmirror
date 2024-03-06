@@ -12,19 +12,19 @@ hide:
     Lvl 5 Gadgeteer(Futarist)/Lvl 5 Fighter(Battlemaster)<br>
     Vect     Medium    Lawful Evil    Ruined Background
 
--   Str 18(+4) Dex 20(+5) Con 19(+4)
-
+    Str 18(+4) Dex 20(+5) Con 19(+4)<br>
     Int 17(+3) Wis 14(+2) Chr 13(+1)
 
-    Saves: Str +8 Dex +9 Con +8<br>
-    Prof: +4 Init: +2 Spd: 30<br>
-    AC: 19 (Juggernaut Frame) HP Max:   Hit Dice: 5d6 5d10
+-   Saves: Str +8 Dex +9 Con +8<br>
+    Prof: +4 Init: +2 Spd: 30 AC: 19 (J Frame)
+    HP Max:   Hit Dice: 5d6 5d10
 
     Feats: Golem Upgrade, Resilient(Dex), Tough
 
     Skills: Arcana +3(AI 10), Athletics +7, Perception +7, Stealth +9, Survival +6, Technology 7
 
-    Weapons/Armor: All simple and martial weapons and blasters, Light/Medium/Heavy armors, shields
+    Weapons: All simple and martial weapons and blasters<br>
+    Armor: Light/Medium/Heavy armors, shields
     
     Tools: Alchemist's Supplies, Cicuitry Kit, Machinist Tools, Ship Maintenance, Smith's Tools, Thieves' Tools, Game Set (Cards)
     
