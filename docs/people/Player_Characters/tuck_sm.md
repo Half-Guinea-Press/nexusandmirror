@@ -6,25 +6,18 @@ hide:
 
 # Tuck - ESTOC Class 4th Line 2nd Iteration
 
-Medium Vect Lawful Evil<br>
-Lvl 5 Gadgeteer(Futarist)/Lvl 5 Fighter(Battlemaster)
+Medium Vect Lawful Evil Lvl 5 Gadgeteer(Futarist)/Lvl 5 Fighter(Battlemaster)
 
 Armor Class 19 (Juggernaut Frame)<br>
+Initiative: +2
 Hit Points (5d6/5d10)<br>
 Speed 30
 
-Str 18(+4) Dex 20(+5) Con 19(+4)<br>
-Int 19(+4) Wis 14(+2) Chr 13(+1)
-
-| STR | DEX | CON | INT | WIS | CHR |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| 18(+4) | 20(+5) | 19(+4) | 17(+3) | 14(+2) | 13(+1) |
-
-Saving Throws: Str +8, Dex +9, Con +8<br>
-Proficiency Bonus to save vs spell<br>
+Str 18(+4) Dex 20(+5) Con 19(+4) Int 19(+4) Wis 14(+2) Chr 13(+1)<br>
+Saves: Str +8, Dex +9, Con +8, +P. Bonus vs spell<br>
 Skills: Arcana +3(10), Athletics +7, Perception +7, Stealth +9, Survival +6, Technology +7<br>
-Condition Resistances: Exhaustion<br>
-Condition Immunities: Charmed, Non-Magical Disease, Poison, Sleep, Hunger, Dehydration, Suffocation<br>
+Resistances: Exhaustion<br>
+Immunities: Charmed, Non-Magical Disease, Poison, Sleep, Hunger, Dehydration, Suffocation<br>
 Senses: Thermalsight(30ft), Passive Perception 17<br>
 Languages: Common
 
