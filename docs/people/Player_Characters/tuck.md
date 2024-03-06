@@ -30,9 +30,7 @@ hide:
     
     Languages: Common, (AI knows all langauges)
 
--   Features
-
-    Racial
+-   Racial Features
 
     Reconfigurable Ability Score Increase<br>
     Thermalsight<br>
