@@ -24,17 +24,11 @@ Medium Vect Lawful Evil Lvl 5 Gadgeteer(Futarist)/Lvl 5 Fighter(Battlemaster)
     Hit Points (5d6/5d10)<br>
     Speed 30
 
--   Abilities
-
     4 hr rest while aware<br>
     Advanced Subroutines(AS): One active at a time<br>
     Genetic Algorithm(AS): Cumulative +1 dam reduction max +3(Int) when taking damage, reset 1 min<br>
     Heatmap(AS): when adv on atk add prof bonus to damage<br>
     Neural Network(AS): cumulative +1 atk bonus max +3(Int) when miss, reset 1 min<br>
-    Close Qtr Fighting Style: Ignore 1/2 & 3/4 Cover within 30', no d.adv within 5' of attacker<br>
-    Action Surge: Take 1 additional action (per S/L rest)<br>
-    Extra Attack: Take 2 atks when taking atk action<br>
-    Superiority Dice: 4d8
 
 -   Attacks
 
@@ -44,11 +38,19 @@ Medium Vect Lawful Evil Lvl 5 Gadgeteer(Futarist)/Lvl 5 Fighter(Battlemaster)
     | Blitz Cannon        | +10/ 2d8 (Lightning) | 10/30  | Blaster, Hvy, Scatter(2d10), Two-Handed |
     | Arm Blade (L Arm)   | +9/ 1d6+5 (Slashing) | 5      | No Disarm, Fineese, Light               |
 
+    Close Qtr Fighting Style: Ignore 1/2 & 3/4 Cover within 30', no d.adv within 5' of attacker<br>
+    Action Surge: Take 1 additional action (per S/L rest)<br>
+    Extra Attack: Take 2 atks when taking atk action<br>
+    Superiority Dice: 4d8<br>
     Maneuvering Attack: upon hit expend s. die, add to dam, friendly use reaction to move 1/2 spd w/o opp atk from hit opponent<br>
     Precision Attack: upon atk roll expend s. die, add to atk, can be befor or after atk roll<br>    
     Overcharge: Once per turn blaster dammage +2 dice<br>
     Foregrip: When used 2-handed +50'/+200'<br>
     Scatter: Higher damage within 5'
+
+</div>
+
+<div class="grid cards" markdown>
 
 -   Actions
 
