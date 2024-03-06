@@ -21,7 +21,7 @@ hide:
 
     Feats: Golem Upgrade, Resilient(Dex), Tough
 
-    Skills: Arcana +3(AI 10), Athletics +7(P), Perception +7(P), Stealth +9(P), Survival +6(P), Technology 7(P)
+    Skills: Arcana +3(AI 10), Athletics +7, Perception +7, Stealth +9, Survival +6, Technology 7
 
     Weapons/Armor: All simple and martial weapons and blasters, Light/Medium/Heavy armors, shields
     
@@ -34,20 +34,20 @@ hide:
     ---
 
     - Reconfigurable Ability Score Increase
-    - Thermalsight(30ft)
-    - Construct Anatomy: nonmagical diseases immunity, don't need to eat/drink/breathe, adv vs exhaustion saves, 4 hr rest instead of sleep
-    - Inflexible Mind: adv vs charmed
-    - Embedded Armor: Juggernaut Plating 19 Armor Class
+    - Thermalsight
+    - Construct Anatomy
+    - Inflexible Mind
+    - Embedded Armor
 
 -   Fighter/Battlemaster Features
 
     ---
 
-    - Fighting Style(Close Qtr): +1 r. atk, ignore 1/2 & 3/4 cover w/in 30ft, no disadv to atk w/in 5ft
-    - Second Wind: 1d10+5
+    - Fighting Style: Close Qtr
+    - Second Wind
     - Action Surge
     - Extra Attack
-    - Combat Superiority: 4d8 Maneuver DC 18
+    - Combat Superiority
     - Maneuvers: Parry, Precision Attack, Maneuvering Attack
 
 -   Gadgeteer/Futarist Features
@@ -55,22 +55,20 @@ hide:
     ---
 
     - AI Companion
-    - Gadgets (4)
-    - Overcharge: +2 die to one attack with blaster per turn
-    - Prototype(Utility Matrix): Cloaking Device, Flashbang, Forcefield Projector, Grappling Hook, Modular Gadget
-    - Advanced Subroutines: Genetic Algorithm, Heatmap, Neural Network
+    - Gadgets
+    - Overcharge
+    - Prototype: Utility Matrix
+    - Advanced Subroutines
     - Novel Inteligence: Arcana
 
 -   Gadgets
 
     ---
 
-    - Blink Button: action to teleport up to 15ft to unoccupied space
-    - Feedback Electrodes: as reaction to damage 2d6 lightning to assailant as long as within 5ft
-    - Gravity Manipulator: 
-        - Levitate: 30' rng, <=lrg, <500 Lbs, 1 min
-        - Repel: push 60' T/s, 30' M, 15' L 2d8 blugeoning
-    - Transmat Deck: Bag of holding
+    - Blink Button
+    - Feedback Electrodes
+    - Gravity Manipulator
+    - Transmat Deck
 
 -   Equipment
 
