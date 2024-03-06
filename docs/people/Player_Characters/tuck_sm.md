@@ -36,24 +36,19 @@ Medium Vect Lawful Evil Lvl 5 Gadgeteer(Futarist)/Lvl 5 Fighter(Battlemaster)
     Extra Attack: Take 2 atks when taking atk action<br>
     Superiority Dice: 4d8
 
-</div>
+-   Attacks
 
-Attacks
+    | Name               | Atk/Dam(Type)      | Range  | Properties                                |
+    | :----------------- | :----------------- |:------ | :---------------------------------------- |
+    | Antimatter Carbine | +10/2d6(Necrotic)  | 30/120 | Automatic, Blaster ,Foregrip              |
+    | Blitz Cannon       | +10/2d8(Lightning) | 10/30  | Blaster, Heavy, Scatter(2d10), Two-Handed |
+    | Arm Blade(L Arm)   | +9/1d6+5(Slashing) | 5      | No Disarm, Fineese, Light                 |
 
-| Name               | Atk | Dam   | Type      | Range  | Properties                                |
-| :----------------- | :-- | :---- | :-------- |:------ | :---------------------------------------- |
-| Antimatter Carbine | +10 | 2d6   | Necrotic  | 30/120 | Automatic, Blaster ,Foregrip              |
-| Blitz Cannon       | +10 | 2d8   | Lightning | 10/30  | Blaster, Heavy, Scatter(2d10), Two-Handed |
-| Arm Blade(L Arm)   | +9  | 1d6+5 | Slashing  | 5      | No Disarm, Fineese, Light                 |
-
-Maneuvering Attack: upon hit expend s. die, add to dam, friendly use reaction to move 1/2 spd w/o opp atk from hit opponent<br>
-Precision Attack: upon atk roll expend s. die, add to atk, can be befor or after atk roll
-
-Overcharge: Once per turn blaster dammage +2 dice<br>
-Foregrip: When used 2-handed +50'/+200'<br>
-Scatter: Higher damage within 5'
-
-<div class="grid cards" markdown>
+    Maneuvering Attack: upon hit expend s. die, add to dam, friendly use reaction to move 1/2 spd w/o opp atk from hit opponent<br>
+    Precision Attack: upon atk roll expend s. die, add to atk, can be befor or after atk roll<br>    
+    Overcharge: Once per turn blaster dammage +2 dice<br>
+    Foregrip: When used 2-handed +50'/+200'<br>
+    Scatter: Higher damage within 5'
 
 -   Actions
 
