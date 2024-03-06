@@ -7,15 +7,12 @@ hide:
 # Tuck - ESTOC Class 4th Line 2nd Iteration
 
 Medium Vect Lawful Evil<br>
-Lvl 5 Gadgeteer(Futarist)/Lvl 5 Fighter(Battlemaster)
-
+Lvl 5 Gadgeteer(Futarist)/Lvl 5 Fighter(Battlemaster)<br>
 ---
-
 Armor Class 19 (Juggernaut Frame)<br>
 Hit Points (5d6/5d10)<br>
 Speed 30
 
----
 
 | STR | DEX | CON | INT | WIS | CHR |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -36,7 +33,6 @@ Languages: Common
 Abilities
 
 4 hr rest while aware<br>
-Overcharge: Blasters do +2 dice dammage once per turn<br>
 Advanced Subroutines(AS): One active at a time<br>
 Genetic Algorithm(AS): Cumulative +1 dam reduction max +3(Int) when taking damage, reset 1 min<br>
 Heatmap(AS): when adv on atk add prof bonus to damage<br>
@@ -56,15 +52,13 @@ Cloaking Device. Become invisible until next turn,can't use following rnd.<br>
 Blink Button: teleport to seen unoccupied space within 15'<br>
 Gravity Manipulator Levitate: target <=L Creature or obj <=500 lbs. w/n 30', move/orient tgt, 1 min dur, Con save DC 15<br>
 
----
-
 Attacks
 
-| Name                | Damage        | Range  | Properties                                               |
-| :------------------ |:------------- |:------ |:-------------------------------------------------------- |
-| Antimatter Carbine  | 2d6 Necrotic  | 30/120 | Automatic, Blaster, Foregrip(80/320), Overcharge(4d6)    |
-| Blitz Cannon        | 2d8 Lightning | 10/30  | Blaster, Heavy, Scatter(2d10), 2-Handed, Overcharge(4d8) |
-| Arm Blade(Left Arm) | 1d6 Slashing  | 5      | No Disarm                                                |
+| Name | Damage | Range | Properties |
+| :- |:- |:- |:- |
+| Antimatter Carbine | 2d6 Necrotic | 30/120(80/320) | Automatic, foregrip, Overcharge(one atk per round at 4d6) |
+| Blitz Cannon | 2d8 Lightning | 10/30 | Heavy, Scatter (2d10), Two-Handed, Overcharge(one atk per round at 4d8) |
+| Arm Blade(Left Arm) | 1d6 Slashing | 5 | No Disarm |
 
 ---
 
@@ -89,3 +83,4 @@ Feedback Electrodes: ipon taking damage from target w/n 5' deal 2d6 lighting dam
 Equipment:
 
 Transmat Deck(Bag of holding)<br>
+Arm Blade(Left Arm)
