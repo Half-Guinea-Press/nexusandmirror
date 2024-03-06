@@ -6,15 +6,14 @@ hide:
 
 # Tuck - ESTOC Class 4th Line 2nd Iteration
 
-Medium Vect Lawful Evil Lvl 5 Gadgeteer(Futarist)/Lvl 5 Fighter(Battlemaster)
 
-<div class="grid cards" markdown>
 
--   Str 18(+4) Dex 20(+5) Con 19(+4) Int 19(+4) Wis 14(+2) Chr 13(+1)<br>
+??? abstract "Medium Vect Lawful Evil Lvl 5 Gadgeteer(Futarist)/Lvl 5 Fighter(Battlemaster)"
 
-    P. Bonus +4<br>
-    Saves: Str +8, Dex +9, Con +8, +P. Bonus vs spell<br>
-    Skills: Arcana +3(10), Athletics +7, Perception +7, Stealth +9, Survival +6, Technology +7<br>
+    Str 18(+4) Dex 20(+5) Con 19(+4) Int 19(+4) Wis 14(+2) Chr 13(+1)<br>
+    Proficiency Bonus +4<br>
+    Saves: Str +8, Dex +9, Con +8, +4 vs spell<br>
+    Skills: Athletics +7, Perception +7, Stealth +9, Survival +6, Tech +7<br>
     Resistances: Exhaustion<br>
     Immunities: Charmed, Non-Magical Disease, Poison, Sleep, Hunger, Dehydration, Suffocation<br>
     Senses: Thermalsight(30ft), Passive Perception 17<br>
@@ -22,13 +21,10 @@ Medium Vect Lawful Evil Lvl 5 Gadgeteer(Futarist)/Lvl 5 Fighter(Battlemaster)
     Armor Class 19 (Juggernaut Frame)<br>
     Initiative: +2<br>
     Hit Points (5d6/5d10)<br>
-    Speed 30
-
+    Speed 30<br>
     4 hr rest while aware<br>
-    Advanced Subroutines(AS): One active at a time<br>
-    Genetic Algorithm(AS): Cumulative +1 dam reduction max +3(Int) when taking damage, reset 1 min<br>
-    Heatmap(AS): when adv on atk add prof bonus to damage<br>
-    Neural Network(AS): cumulative +1 atk bonus max +3(Int) when miss, reset 1 min<br>
+
+<div class="grid cards" markdown>
 
 -   Attacks
 
@@ -40,17 +36,21 @@ Medium Vect Lawful Evil Lvl 5 Gadgeteer(Futarist)/Lvl 5 Fighter(Battlemaster)
 
     Close Qtr Fighting Style: Ignore 1/2 & 3/4 Cover within 30', no d.adv within 5' of attacker<br>
     Action Surge: Take 1 additional action (per S/L rest)<br>
-    Extra Attack: Take 2 atks when taking atk action<br>
-    Superiority Dice: 4d8<br>
-    Maneuvering Attack: upon hit expend s. die, add to dam, friendly use reaction to move 1/2 spd w/o opp atk from hit opponent<br>
-    Precision Attack: upon atk roll expend s. die, add to atk, can be befor or after atk roll<br>    
+    Extra Attack: Take 2 atks when taking atk action
+
+    Superiority Dice: 4d8
+    - Maneuvering Attack: upon hit expend s. die, add to dam, friendly use reaction to move 1/2 spd w/o opp atk from hit opponent
+    - Precision Attack: upon atk roll expend s. die, add to atk, can be befor or after atk roll
+
     Overcharge: Once per turn blaster dammage +2 dice<br>
     Foregrip: When used 2-handed +50'/+200'<br>
     Scatter: Higher damage within 5'
 
-</div>
+    Advanced Subroutines: One active at a time
 
-<div class="grid cards" markdown>
+    - Genetic Algorithm: Cumulative +1 dam reduction max +3(Int) when taking damage, reset 1 min
+    - Heatmap: when adv on atk add prof bonus to damage
+    - Neural Network: cumulative +1 atk bonus max +3(Int) when miss, reset 1 min
 
 -   Actions
 
