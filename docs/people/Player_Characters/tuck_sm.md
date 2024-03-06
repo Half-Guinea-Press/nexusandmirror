@@ -15,8 +15,6 @@ hide:
 
     Proficiency Bonus +4
 
-
-
     Skills: Athletics +7, Perception +7, Stealth +9, Survival +6, Tech +7
 
     Senses: Thermalsight(30ft), Passive Perception 17
@@ -29,16 +27,21 @@ hide:
 
 Combat Stats
 
-Initiative: +2
-AC: 19(Juggernaut Frame)
-Speed: 30
-Hit Point Max:
+<div class="grid cards" markdown>
 
-Saves: Str +8, Dex +9, Con +8<br>
-+4 vs spell
+-   Initiative: +2
 
-Resistances: Exhaustion<br>
-Immunities: Charmed, Non-Magical Disease, Poison, Sleep, Hunger, Dehydration, Suffocation
+    AC: 19(Juggernaut Frame)<br>
+    Speed: 30<br>
+    Hit Point Max:<br>
+
+-   Saves: Str +8, Dex +9, Con
+
+    +8 +4 vs spell<br>
+    Resistances: Exhaustion<br>
+    Immunities: Charmed, Non-Magical Disease, Poison, Sleep, Hunger, Dehydration, Suffocation
+
+</div>
 
 Attacks
 
@@ -52,17 +55,21 @@ Close Qtr Fighting Style: Ignore 1/2 & 3/4 Cover within 30', no d.adv within 5' 
 Action Surge: Take 1 additional action (per S/L rest)<br>
 Extra Attack: Take 2 atks when taking atk action
 
-??? abstract "Maneuvers"
+<div class="grid cards" markdown>
+
+-   Maneuvers
 
     - Superiority Dice: 4d8
     - Maneuvering Attack: upon hit expend s. die, add to dam, friendly use reaction to move 1/2 spd w/o opp atk from hit opponent
     - Precision Attack: upon atk roll expend s. die, add to atk, can be befor or after atk roll
 
-??? abstract "Advanced Subroutines: One active at a time"
+-   Advanced Subroutines: One active at a time
 
     - Genetic Algorithm: Cumulative +1 dam reduction max +3(Int) when taking damage, reset 1 min
     - Heatmap: when adv on atk add prof bonus to damage
     - Neural Network: cumulative +1 atk bonus max +3(Int) when miss, reset 1 min
+
+</div>
 
 <div class="grid cards" markdown>
 
