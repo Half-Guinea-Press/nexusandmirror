@@ -7,18 +7,15 @@ hide:
 # Tuck - ESTOC Class 4th Line 2nd Iteration
 
 Medium Vect Lawful Evil<br>
-Lvl 5 Gadgeteer(Futarist)/Lvl 5 Fighter(Battlemaster)<br>
----
+Lvl 5 Gadgeteer(Futarist)/Lvl 5 Fighter(Battlemaster)
+
 Armor Class 19 (Juggernaut Frame)<br>
 Hit Points (5d6/5d10)<br>
 Speed 30
 
-
 | STR | DEX | CON | INT | WIS | CHR |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 18(+4) | 20(+5) | 19(+4) | 17(+3) | 14(+2) | 13(+1) |
-
----
 
 Saving Throws: Str +8, Dex +9, Con +8<br>
 Proficiency Bonus to save vs spell<br>
@@ -27,8 +24,6 @@ Condition Resistances: Exhaustion<br>
 Condition Immunities: Charmed, Non-Magical Disease, Poison, Sleep, Hunger, Dehydration, Suffocation<br>
 Senses: Thermalsight(30ft), Passive Perception 17<br>
 Languages: Common
-
----
 
 Abilities
 
@@ -44,8 +39,6 @@ Superiority Dice: 4d8<br>
 Maneuvering Attack: upon sucessfull hit expend superiority die, add 1d8 to damage, choose friendly to use reaction to move 1/2 spd w/o opp atk from hit opponent<br>
 Precision Attack: upon atk roll expend superiority die to add 1d8 to atk roll, can be befor or after atk roll<br>
 
----
-
 Actions
 
 Cloaking Device. Become invisible until next turn,can't use following rnd.<br>
@@ -60,8 +53,6 @@ Attacks
 | Blitz Cannon | 2d8 Lightning | 10/30 | Heavy, Scatter (2d10), Two-Handed, Overcharge(one atk per round at 4d8) |
 | Arm Blade(Left Arm) | 1d6 Slashing | 5 | No Disarm |
 
----
-
 Bonus Actions
 
 Flashbang. Within 5 feet no reactions till next turn, can't use following rnd<br>
@@ -70,15 +61,11 @@ Grappling Hook. Seen target loc w/n move no opp atk,  can't use following rnd.<b
 Second Wind: 1d10+5 (per S/L rest)
 Gravity Manipulator Repel: Tgt pushed 60' if T/S, 30' if M, 15' if L, obstacle and tgt take 2d8 bludgeoning
 
----
-
 Reactions
 
 Grappling Hook. Seen target loc w/n move no opp atk,  can't use following rnd.<br>
 Parry: Upon melee damage expend superiority die to reduce damage 1d8+5(Dex)
 Feedback Electrodes: ipon taking damage from target w/n 5' deal 2d6 lighting dammage<br>
-
----
 
 Equipment:
 
