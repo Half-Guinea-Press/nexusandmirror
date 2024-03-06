@@ -6,7 +6,7 @@ hide:
 
 # Tuck - ESTOC Class 4th Line 2nd Iteration
 
-!!! abstract inline end "Medium Vect Lawful Evil"
+??? abstract "Medium Vect Lawful Evil"
 
     Lvl 5 Gadgeteer(Futarist)/ Lvl 5 Fighter(Battlemaster)
 
@@ -17,11 +17,11 @@ hide:
 
     Skills: Athletics +7, Perception +7, Stealth +9, Survival +6, Tech +7
 
-    Senses: Thermalsight(30ft), Passive Perception 17
+    Senses: Thermalsight(30ft)<br>
+    Passive Perception: 17<br>
+    Passive Insight: 12
 
     Languages: Common
-
-    Hit Dice: 5d6/5d10
 
     4 hr rest while aware
 
@@ -34,10 +34,11 @@ Combat Stats
     AC: 19(Juggernaut Frame)<br>
     Speed: 30<br>
     Hit Point Max:<br>
+    Hit Dice: 5d6/5d10
 
--   Saves: Str +8, Dex +9, Con
+-   Saves: Str +8, Dex +9, Con +8
 
-    +8 +4 vs spell<br>
+    +4 vs spell<br>
     Resistances: Exhaustion<br>
     Immunities: Charmed, Non-Magical Disease, Poison, Sleep, Hunger, Dehydration, Suffocation
 
