@@ -13,6 +13,9 @@ Armor Class 19 (Juggernaut Frame)<br>
 Hit Points (5d6/5d10)<br>
 Speed 30
 
+Str 18(+4) Dex 20(+5) Con 19(+4)<br>
+Int 19(+4) Wis 14(+2) Chr 13(+1)
+
 | STR | DEX | CON | INT | WIS | CHR |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 18(+4) | 20(+5) | 19(+4) | 17(+3) | 14(+2) | 13(+1) |
