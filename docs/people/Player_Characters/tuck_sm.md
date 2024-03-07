@@ -52,21 +52,7 @@ Attacks
 | Blitz Cannon        | +10/ 2d8 (Lightning) | 10/30  | Blaster, Hvy, Scatter(2d10), 2-Handed |
 | Arm Blade (L Arm)   | +9/ 1d6+5 (Slashing) | 5      | No Disarm, Fineese, Light             |
 
-=== "Weapon Notes"
-
-    Overcharge: Per turn blaster dam +2 die
-
-    Foregrip: When used 2-handed +50'/+200'
-
-    Scatter: Higher damage within 5'
-
-=== "Fighter Notes"
-
-    Close Qtr: Ignore 1/2 & 3/4 cover w/n 30', no d.adv w/n 5' of attacker
-
-    Action Surge: Take 1 additional action (per S/L rest)
-
-    Extra Attack: Take 2 atks when taking atk action
+<div class="grid cards" markdown>
 
 === "Maneuvers"
 
@@ -111,6 +97,26 @@ Attacks
     Parry: Upon melee damage expend s. die to reduce damage 1d8+5(Dex)
 
     Feedback Electrodes: ipon taking damage from target w/n 5' deal 2d6 lighting dammage
+
+-   Notes
+
+=== "Weapon Notes"
+
+    Overcharge: Per turn blaster dam +2 die
+
+    Foregrip: When used 2-handed +50'/+200'
+
+    Scatter: Higher damage within 5'
+
+=== "Fighter Notes"
+
+    Close Qtr: Ignore 1/2 & 3/4 cover w/n 30', no d.adv w/n 5' of attacker
+
+    Action Surge: Take 1 additional action (per S/L rest)
+
+    Extra Attack: Take 2 atks when taking atk action
+
+</div>
 
 Equipment
 
