@@ -44,9 +44,9 @@ Attacks
 
 | Name                | Atk/ Dam (Type)                   | Range  | Properties                          | Notes                                   |
 | :-----------------  | :------------------------------   |:------ | :---------------------------------- | :-------------------------------------- |
-| Antimatter Carbine  | +10/ 2d6:material-skull:          | 30/120 | Automatic, Blaster, Foregrip        | Overcharge: Per turn blaster dam +2 die |
-| Blitz Cannon        | +10/ 2d8:material-lightning-bolt: | 10/30  | Blaster, Hvy, Scatter(2d10), 2-Hand | Foregrip: When used 2-handed +50'/+200' |
-| Arm Blade (L Arm)   | +9/ 1d6+5:material-sword:         | 5      | No Disarm, Fineese, Light           | Scatter: Higher damage within 5'        |
+| Antimatter Carbine  | +10/2d6 :material-skull:          | 30/120 | Automatic, Blaster, Foregrip        | Overcharge: Per turn blaster dam +2 die |
+| Blitz Cannon        | +10/2d8 :material-lightning-bolt: | 10/30  | Blaster, Hvy, Scatter(2d10), 2-Hand | Foregrip: When used 2-handed +50'/+200' |
+| Arm Blade (L Arm)   | +9/1d6+5 :material-sword:         | 5      | No Disarm, Fineese, Light           | Scatter: Higher damage within 5'        |
 
 <div class="grid cards" markdown>
 
