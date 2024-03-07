@@ -6,7 +6,7 @@ hide:
 
 # Tuck - ESTOC Class 4th Line 2nd Iteration
 
-??? abstract inline "Medium Vect Lawful Evil"
+!!! abstract inline "Medium Vect Lawful Evil"
 
     Lvl 5 Gadgeteer(Futarist)/ Lvl 5 Fighter(Battlemaster)
 
@@ -52,25 +52,24 @@ Attacks
 | Blitz Cannon        | +10/ 2d8 (Lightning) | 10/30  | Blaster, Hvy, Scatter(2d10), 2-Handed | Foregrip: When used 2-handed +50'/+200' | Action Surge: Take 1 additional action (per S/L rest)                  |
 | Arm Blade (L Arm)   | +9/ 1d6+5 (Slashing) | 5      | No Disarm, Fineese, Light             | Scatter: Higher damage within 5'        | Extra Attack: Take 2 atks when taking atk action                       |
 
-<div class="grid cards" markdown>
+=== "Maneuvers"
 
--   Maneuvers
+    Superiority Dice: 4d8
 
-    - Superiority Dice: 4d8
-    - Maneuvering Attack: upon hit expend s. die, add to dam, friendly use reaction to move 1/2 spd w/o opp atk from hit opponent
-    - Precision Attack: upon atk roll expend s. die, add to atk, can be befor or after atk roll
+    Maneuvering Attack: upon hit expend s. die, add to dam, friendly use reaction to move 1/2 spd w/o opp atk from hit opponent
 
--   Advanced Subroutines: One active at a time
+    Precision Attack: upon atk roll expend s. die, add to atk, can be befor or after atk roll
 
-    - Genetic Algorithm: Cumulative +1 dam reduction max +3(Int) when taking damage, reset 1 min
-    - Heatmap: when adv on atk add prof bonus to damage
-    - Neural Network: cumulative +1 atk bonus max +3(Int) when miss, reset 1 min
+=== "Advanced Subroutines: One active at a time"
 
-</div>
+    Genetic Algorithm: Cumulative +1 dam reduction max +3(Int) when taking damage, reset 1 min
 
-<div class="grid cards" markdown>
+    Heatmap: when adv on atk add prof bonus to damage
 
--   Actions
+    Neural Network: cumulative +1 atk bonus max +3(Int) when miss, reset 1 min
+
+
+=== "Actions"
 
     Cloaking Device. Become invisible until next turn,can't use following rnd.
 
@@ -78,7 +77,7 @@ Attacks
 
     Gravity Manipulator Levitate: target <=L Creature or obj <=500 lbs. w/n 30', move/orient tgt, 1 min dur, Con save DC 15<br>
 
--   Bonus Actions
+=== "Bonus Actions"
 
     Flashbang. Within 5 feet no reactions till next turn, can't use following rnd
 
@@ -90,7 +89,7 @@ Attacks
 
     Gravity Manipulator Repel: Tgt pushed 60' if T/S, 30' if M, 15' if L, obstacle and tgt take 2d8 bludgeoning
 
--   Reactions
+=== "Reactions"
 
     Grappling Hook. Seen target loc w/n move no opp atk,  can't use following rnd.
 
@@ -98,12 +97,10 @@ Attacks
 
     Feedback Electrodes: ipon taking damage from target w/n 5' deal 2d6 lighting dammage
 
--   Equipment:
+=== "Equipment"
 
     Transmat Deck(Bag of holding)
 
     Arm Blade(Left Arm Slot)
 
     Juggernaut Frame(Exterior Slot)
-
-</div>
