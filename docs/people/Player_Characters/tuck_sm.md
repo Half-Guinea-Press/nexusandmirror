@@ -27,16 +27,14 @@ hide:
 
 -   Combat Stats
 
-    Initiative: +2 Speed: 30<br>
+    Initiative: +2 Speed: 30 AC: 19<br>
     Melee Atk: +8/+9(Fineese) Ranged Atk: +10<br>
-    AC: 19(Juggernaut Frame)<br>
     Hit Point Max:<br>
     Hit Dice: 5d6/5d10
 
 -   Saves/Resistances/Immunities
 
-    Saves: Str +8, Dex +9, Con +8<br>
-    +4 vs spell<br>
+    Saves: Str +8, Dex +9, Con +8 Vs Spell +4<br>
     Resistances: Exhaustion<br>
     Immunities: Charmed, Non-Magical Disease, Poison, Sleep, Hunger, Dehydration, Suffocation
 
@@ -44,11 +42,11 @@ hide:
 
 Attacks
 
-| Name                | Atk/ Dam (Type)      | Range  | Properties                            | Notes                                   |
-| :-----------------  | :-----------------   |:------ | :------------------------------------ | :-------------------------------------- |
-| Antimatter Carbine  | +10/ 2d6 (Necrotic)  | 30/120 | Automatic, Blaster ,Foregrip          | Overcharge: Per turn blaster dam +2 die |
-| Blitz Cannon        | +10/ 2d8 (Lightning) | 10/30  | Blaster, Hvy, Scatter(2d10), 2-Handed | Foregrip: When used 2-handed +50'/+200' |
-| Arm Blade (L Arm)   | +9/ 1d6+5 (Slashing) | 5      | No Disarm, Fineese, Light             | Scatter: Higher damage within 5'        |
+| Name                | Atk/ Dam (Type)                   | Range  | Properties                          | Notes                                   |
+| :-----------------  | :------------------------------   |:------ | :---------------------------------- | :-------------------------------------- |
+| Antimatter Carbine  | +10/ 2d6:material-skull:          | 30/120 | Automatic, Blaster, Foregrip        | Overcharge: Per turn blaster dam +2 die |
+| Blitz Cannon        | +10/ 2d8:material-lightning-bolt: | 10/30  | Blaster, Hvy, Scatter(2d10), 2-Hand | Foregrip: When used 2-handed +50'/+200' |
+| Arm Blade (L Arm)   | +9/ 1d6+5:material-sword:         | 5      | No Disarm, Fineese, Light           | Scatter: Higher damage within 5'        |
 
 <div class="grid cards" markdown>
 
