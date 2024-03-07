@@ -13,31 +13,29 @@ hide:
     Str 18(+4) Dex 20(+5) Con 19(+4)<br>
     Int 19(+4) Wis 14(+2) Chr 13(+1)
 
-    Proficiency Bonus +4
-
+    Proficiency Bonus +4<br>
     Skills: Athletics +7, Perception +7, Stealth +9, Survival +6, Tech +7
 
     Senses: Thermalsight(30ft)<br>
     Passive Perception: 17<br>
     Passive Insight: 12
 
-    Languages: Common
-
+    Languages: Common<br>
     4 hr rest while aware
-
-Combat Stats
 
 <div class="grid cards" markdown>
 
--   Initiative: +2
+-   Combat Stats
 
+    Initiative: +2 Speed: 30<br>
+    Melee Atk: +8/+9(Fineese) Ranged Atk: +10<br>
     AC: 19(Juggernaut Frame)<br>
-    Speed: 30<br>
     Hit Point Max:<br>
     Hit Dice: 5d6/5d10
 
--   Saves: Str +8, Dex +9, Con +8
+-   Saves/Resistances/Immunities
 
+    Saves: Str +8, Dex +9, Con +8<br>
     +4 vs spell<br>
     Resistances: Exhaustion<br>
     Immunities: Charmed, Non-Magical Disease, Poison, Sleep, Hunger, Dehydration, Suffocation
@@ -55,8 +53,6 @@ Attacks
 <div class="grid cards" markdown>
 
 -   Action Economy
-
-    ---
 
     === "Actions"
     
@@ -87,8 +83,6 @@ Attacks
         Feedback Electrodes: ipon taking damage from target w/n 5' deal 2d6 lighting dammage
 
 -   Notes
-
-    ---
 
     === "Weapon Notes"
     
