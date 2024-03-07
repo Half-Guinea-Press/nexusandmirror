@@ -98,7 +98,7 @@ Attacks
 
     Feedback Electrodes: ipon taking damage from target w/n 5' deal 2d6 lighting dammage
 
-title="Notes"
+Notes
 
 === "Weapon Notes"
 
