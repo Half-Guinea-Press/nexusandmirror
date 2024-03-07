@@ -44,11 +44,11 @@ hide:
 
 Attacks
 
-| Name                | Atk/ Dam (Type)      | Range  | Properties                            |
-| :-----------------  | :-----------------   |:------ | :------------------------------------ |
-| Antimatter Carbine  | +10/ 2d6 (Necrotic)  | 30/120 | Automatic, Blaster ,Foregrip          |
-| Blitz Cannon        | +10/ 2d8 (Lightning) | 10/30  | Blaster, Hvy, Scatter(2d10), 2-Handed |
-| Arm Blade (L Arm)   | +9/ 1d6+5 (Slashing) | 5      | No Disarm, Fineese, Light             |
+| Name                | Atk/ Dam (Type)      | Range  | Properties                            | Notes                                   |
+| :-----------------  | :-----------------   |:------ | :------------------------------------ | :-------------------------------------- |
+| Antimatter Carbine  | +10/ 2d6 (Necrotic)  | 30/120 | Automatic, Blaster ,Foregrip          | Overcharge: Per turn blaster dam +2 die |
+| Blitz Cannon        | +10/ 2d8 (Lightning) | 10/30  | Blaster, Hvy, Scatter(2d10), 2-Handed | Foregrip: When used 2-handed +50'/+200' |
+| Arm Blade (L Arm)   | +9/ 1d6+5 (Slashing) | 5      | No Disarm, Fineese, Light             | Scatter: Higher damage within 5'        |
 
 <div class="grid cards" markdown>
 
@@ -84,22 +84,6 @@ Attacks
 
 -   Notes
 
-    === "Weapon Notes"
-    
-        Overcharge: Per turn blaster dam +2 die
-    
-        Foregrip: When used 2-handed +50'/+200'
-    
-        Scatter: Higher damage within 5'
-    
-    === "Fighter Notes"
-    
-        Close Qtr: Ignore 1/2 & 3/4 cover w/n 30', no d.adv w/n 5' of attacker
-    
-        Action Surge: Take 1 additional action (per S/L rest)
-    
-        Extra Attack: Take 2 atks when taking atk action
-
     === "Maneuvers"
     
         Superiority Dice: 4d8
@@ -117,6 +101,14 @@ Attacks
         Heatmap: when adv on atk add prof bonus to damage
     
         Neural Network: cumulative +1 atk bonus max +3(Int) when miss, reset 1 min
+
+    === "Fighter Notes"
+    
+        Close Qtr: Ignore 1/2 & 3/4 cover w/n 30', no d.adv w/n 5' of attacker
+    
+        Action Surge: Take 1 additional action (per S/L rest)
+    
+        Extra Attack: Take 2 atks when taking atk action
 
 </div>
 
