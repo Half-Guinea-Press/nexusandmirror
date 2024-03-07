@@ -98,23 +98,25 @@ Attacks
 
     Feedback Electrodes: ipon taking damage from target w/n 5' deal 2d6 lighting dammage
 
-Notes
+-   Notes
 
-=== "Weapon Notes"
+    ---
 
-    Overcharge: Per turn blaster dam +2 die
-
-    Foregrip: When used 2-handed +50'/+200'
-
-    Scatter: Higher damage within 5'
-
-=== "Fighter Notes"
-
-    Close Qtr: Ignore 1/2 & 3/4 cover w/n 30', no d.adv w/n 5' of attacker
-
-    Action Surge: Take 1 additional action (per S/L rest)
-
-    Extra Attack: Take 2 atks when taking atk action
+    === "Weapon Notes"
+    
+        Overcharge: Per turn blaster dam +2 die
+    
+        Foregrip: When used 2-handed +50'/+200'
+    
+        Scatter: Higher damage within 5'
+    
+    === "Fighter Notes"
+    
+        Close Qtr: Ignore 1/2 & 3/4 cover w/n 30', no d.adv w/n 5' of attacker
+    
+        Action Surge: Take 1 additional action (per S/L rest)
+    
+        Extra Attack: Take 2 atks when taking atk action
 
 </div>
 
