@@ -23,6 +23,12 @@ hide:
     Languages: Common<br>
     4 hr rest while aware
 
+    Equipment
+
+    - Transmat Deck(Bag of holding)
+    - Arm Blade(Left Arm Slot)
+    - Juggernaut Frame(Exterior Slot)
+
 <div class="grid cards" markdown>
 
 -   Combat Stats
@@ -109,9 +115,3 @@ Attacks
         Extra Attack: Take 2 atks when taking atk action
 
 </div>
-
-Equipment
-
-- Transmat Deck(Bag of holding)
-- Arm Blade(Left Arm Slot)
-- Juggernaut Frame(Exterior Slot)
