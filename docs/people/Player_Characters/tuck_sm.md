@@ -6,7 +6,7 @@ hide:
 
 # Tuck - ESTOC Class 4th Line 2nd Iteration
 
-!!! abstract inline "Medium Vect Lawful Evil"
+!!! abstract inline end "Medium Vect Lawful Evil"
 
     Lvl 5 Gadgeteer(Futarist)/ Lvl 5 Fighter(Battlemaster)
 
@@ -36,8 +36,7 @@ hide:
 | Stats   | Saves                | Resistances/Immunities                              |
 | :------ | :------------------- | :-------------------------------------------------- |
 | Init +2 | Str +8 Dex +9 Con +8 | Resistance: Exhaustion                              |
-| AC 19   | +8 vs Spell          | Immune: Poison, Charmed, Sleep, Non-Magical Disease |
-
+| AC 19   | +8 vs Spell          | Immune: Poison, Charmed, Sleep, Non-Magical Disease |<br>
 | Attack Name        | Atk/ Dam (Type)                   | Range  | Properties                          | Notes                                   |
 | :----------------- | :------------------------------   |:------ | :---------------------------------- | :-------------------------------------- |
 | Antimatter Carbine | +10/2d6 :material-skull:          | 30/120 | Automatic, Blaster, Foregrip        | Overcharge: Per turn blaster dam +2 die |
