@@ -13,9 +13,17 @@ hide:
     Str 18(+4) Dex 20(+5) Con 19(+4)<br>
     Int 19(+4) Wis 14(+2) Chr 13(+1)
 
-    Speed 30
-    HP Max:
+    Saves: Str +8 Dex +9 Con +8
+    +8 vs Spell
+
+    Init +2<br>
+    AC 19<br>
+    Speed 30<br>
+    HP Max:<br>
     Hit Dice: 5d6/5d10
+
+    Resistance: Exhaustion<br>
+    Immune: Poison, Charmed, Sleep, Non-Magical Disease
 
     Proficiency Bonus +4<br>
     Skills: Athletics +7, Perception +7, Stealth +9, Survival +6, Tech +7
@@ -32,11 +40,6 @@ hide:
     - Transmat Deck(Bag of holding)
     - Arm Blade(Left Arm Slot)
     - Juggernaut Frame(Exterior Slot)
-
-| Stats   | Saves                | Resistances/Immunities                              |
-| :------ | :------------------- | :-------------------------------------------------- |
-| Init +2 | Str +8 Dex +9 Con +8 | Resistance: Exhaustion                              |
-| AC 19   | +8 vs Spell          | Immune: Poison, Charmed, Sleep, Non-Magical Disease |
 
 | Attack Name        | Atk/ Dam (Type)                   | Range  | Properties                          | Notes                                   |
 | :----------------- | :------------------------------   |:------ | :---------------------------------- | :-------------------------------------- |
