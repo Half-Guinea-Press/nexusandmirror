@@ -13,6 +13,9 @@ hide:
     Str 18(+4) Dex 20(+5) Con 19(+4)<br>
     Int 19(+4) Wis 14(+2) Chr 13(+1)
 
+    HP Max:
+    Hit Dice: 5d6/5d10
+
     Proficiency Bonus +4<br>
     Skills: Athletics +7, Perception +7, Stealth +9, Survival +6, Tech +7
 
@@ -29,12 +32,11 @@ hide:
     - Arm Blade(Left Arm Slot)
     - Juggernaut Frame(Exterior Slot)
 
-| Combat Stats   |                   |       | Saves  |             | Resistances | Immunities    |              |
-| :------------- | :---------------- | :---- | :----- | :---------- | :---------- | :------------ | :----------- |
-| Initiative +2  | Speed 30          | AC 19 | Str +8 | +8 vs Spell | Exhaustion  | Charmed       | Sleep        |
-| Melee +8/+9(F) | Ranged +10        |       | Dex +9 |             |             | Non-M Disease | Hunger/Dehyd |
-| HP Max         | Hit Dice 5d6/5d10 |       | Con +8 |             |             | Poison        | Suffocation  |
-
+| Combat Stats   |          | Saves  |             | Resist  | Immune    |               |
+| :------------- | :------- | :----- | :---------- | :------ | :-------- | :------------ |
+| Initiative +2  | Speed 30 | Str +8 | +8 vs Spell | Exhaust | Charmed   | Non-M Disease |
+| Melee +8/+9(F) | AC 19    | Dex +9 |             |         | Poison    | Sleep         |
+| Ranged +10     |          | Con +8 |             |         | Eat/Drink | Suffocation   |
 
 Attacks
 
