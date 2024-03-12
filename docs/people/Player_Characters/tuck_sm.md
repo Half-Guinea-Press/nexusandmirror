@@ -6,7 +6,7 @@ hide:
 
 # Tuck - ESTOC Class 4th Line 2nd Iteration
 
-!!! abstract inline end "Medium Vect Lawful Evil"
+!!! abstract inline "Medium Vect Lawful Evil"
 
     Lvl 5 Gadgeteer(Futarist)/ Lvl 5 Fighter(Battlemaster)
 
@@ -33,9 +33,10 @@ hide:
     - Arm Blade(Left Arm Slot)
     - Juggernaut Frame(Exterior Slot)
 
-| :------ | :-------------------------- | :-------------------------------------------------- |
-| Init +2 | Saves: Str +8 Dex +9 Con +8 | Resist: Exhaustion                                  |
-| AC 19   | +8 vs Spell                 | Immune: Poison, Charmed, Sleep, Non-Magical Disease |
+| Stats   | Saves                | Resistances/Immunities                              |
+| :------ | :------------------- | :-------------------------------------------------- |
+| Init +2 | Str +8 Dex +9 Con +8 | Resistance: Exhaustion                              |
+| AC 19   | +8 vs Spell          | Immune: Poison, Charmed, Sleep, Non-Magical Disease |
 
 | Attack Name        | Atk/ Dam (Type)                   | Range  | Properties                          | Notes                                   |
 | :----------------- | :------------------------------   |:------ | :---------------------------------- | :-------------------------------------- |
