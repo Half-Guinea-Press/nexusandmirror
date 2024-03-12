@@ -6,7 +6,7 @@ hide:
 
 <style>
 .slidecontainer {
-  width: 100%;
+  width: 75%;
 }
 
 .slider {
