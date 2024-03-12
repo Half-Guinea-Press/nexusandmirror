@@ -46,6 +46,13 @@ hide:
 
 </div>
 
+| Combat Stats | | |
+| :-- | :-- | :-- |
+| Initiative +2 | Speed 30 | AC 19 |
+| Melee +8/+9(F) | Ranged +10 | |
+| HP Max | Hit Dice 5d6/5d10 | |
+
+
 Attacks
 
 | Name                | Atk/ Dam (Type)                   | Range  | Properties                          | Notes                                   |
