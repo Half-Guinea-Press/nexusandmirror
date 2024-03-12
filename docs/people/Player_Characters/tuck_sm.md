@@ -31,11 +31,11 @@ hide:
 
     Languages: Common
 
-| Attack Name        | Atk/ Dam (Type)                   | Range  | Properties                          | Notes                                   |
-| :----------------- | :------------------------------   |:------ | :---------------------------------- | :-------------------------------------- |
-| Antimatter Carbine | +10/2d6 :material-skull:          | 30/120 | Automatic, Blaster, Foregrip        | Overcharge: Per turn blaster dam +2 die |
-| Blitz Cannon       | +10/2d8 :material-lightning-bolt: | 10/30  | Blaster, Hvy, Scatter(2d10), 2-Hand | Foregrip: When used 2-handed +50'/+200' |
-| Arm Blade (L Arm)  | +9/1d6+5 :material-sword:         | 5      | No Disarm, Fineese, Light           | Scatter: Higher damage within 5'        |
+| Attack Name        | Atk/ Dam (Type)                   | Range  | Properties                          |
+| :----------------- | :------------------------------   |:------ | :---------------------------------- |
+| Antimatter Carbine | +10/2d6 :material-skull:          | 30/120 | Automatic, Blaster, Foregrip        |
+| Blitz Cannon       | +10/2d8 :material-lightning-bolt: | 10/30  | Blaster, Hvy, Scatter(2d10), 2-Hand |
+| Arm Blade (L Arm)  | +9/1d6+5 :material-sword:         | 5      | No Disarm, Fineese, Light           |
 
 <div class="grid cards" markdown>
 
@@ -79,7 +79,7 @@ hide:
     
         Precision Attack: upon atk roll expend s. die, add to atk, can be befor or after atk roll
     
-    === "Advanced Subroutines"
+    === "Adv. Subroutines"
     
         One active at a time
     
@@ -89,12 +89,20 @@ hide:
     
         Neural Network: cumulative +1 atk bonus max +3(Int) when miss, reset 1 min
 
-    === "Fighter Notes"
+    === "Fighter"
     
         Close Qtr: Ignore 1/2 & 3/4 cover w/n 30', no d.adv w/n 5' of attacker
     
         Action Surge: Take 1 additional action (per S/L rest)
     
         Extra Attack: Take 2 atks when taking atk action
+
+    === "Weapon"
+
+        Overcharge: Per turn blaster dam +2 die
+
+        Foregrip: When used 2-handed +50'/+200'
+
+        Scatter: Higher damage within 5'
 
 </div>
