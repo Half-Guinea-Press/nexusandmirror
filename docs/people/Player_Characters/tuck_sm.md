@@ -29,28 +29,11 @@ hide:
     - Arm Blade(Left Arm Slot)
     - Juggernaut Frame(Exterior Slot)
 
-<div class="grid cards" markdown>
-
--   Combat Stats
-
-    Initiative: +2 Speed: 30 AC: 19<br>
-    Melee Atk: +8/+9(Fineese) Ranged Atk: +10<br>
-    Hit Point Max:<br>
-    Hit Dice: 5d6/5d10
-
--   Saves/Resistances/Immunities
-
-    Saves: Str +8, Dex +9, Con +8 Vs Spell +4<br>
-    Resistances: Exhaustion<br>
-    Immunities: Charmed, Non-Magical Disease, Poison, Sleep, Hunger, Dehydration, Suffocation
-
-</div>
-
-| Combat Stats | | |
-| :-- | :-- | :-- |
-| Initiative +2 | Speed 30 | AC 19 |
-| Melee +8/+9(F) | Ranged +10 | |
-| HP Max | Hit Dice 5d6/5d10 | |
+| Combat Stats   |                   |       | Saves  |             | Resistances | Immunities    |              |
+| :------------- | :---------------- | :---- | :----- | :---------- | :---------- | :------------ | :----------- |
+| Initiative +2  | Speed 30          | AC 19 | Str +8 | +8 vs Spell | Exhaustion  | Charmed       | Sleep        |
+| Melee +8/+9(F) | Ranged +10        |       | Dex +9 |             |             | Non-M Disease | Hunger/Dehyd |
+| HP Max         | Hit Dice 5d6/5d10 |       | Con +8 |             |             | Poison        | Suffocation  |
 
 
 Attacks
