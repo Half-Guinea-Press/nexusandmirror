@@ -58,30 +58,23 @@ slider.oninput = function() {
 }
 </script>
 
-
-
-!!! abstract inline end "Medium Vect Lawful Evil"
+??? abstract "Medium Vect Lawful Evil"
 
     Lvl 5 Gadgeteer(Futarist)/ Lvl 5 Fighter(Battlemaster)
 
-    Str 18(+4) Dex 20(+5) Con 19(+4)<br>
-    Int 19(+4) Wis 14(+2) Chr 13(+1)
+    Str 18(+4) Dex 20(+5) Con 19(+4) Int 19(+4) Wis 14(+2) Chr 13(+1)
 
-    Saves: Str +8 Dex +9 Con +8<br>
-    +8 vs Spell
+    Saves: Str +8 Dex +9 Con +8 vs Spell +8
 
     Init +2 | AC 19 | Spd 30<br>
-    HP Max:123<br>
-    Hit Dice: 5d6/5d10
+    HP Max:123 | Hit Dice: 5d6/5d10
 
-    Resistance: Exhaustion<br>
-    Immune: Poison, Charmed, Sleep, Non-Magical Disease
+    Resistance: Exhaustion | Immune: Poison, Charmed, Sleep, Non-Magical Disease
 
     Skills: Athletics +7, Perception +7, Stealth +9, Survival +6, Tech +7
 
     Senses: Thermalsight(30ft)<br>
-    Passive Perception: 17<br>
-    Passive Insight: 12
+    Passive Perception: 17 | Passive Insight: 12
 
     Languages: Common
 
