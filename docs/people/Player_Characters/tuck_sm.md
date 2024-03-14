@@ -6,7 +6,7 @@ hide:
 
 <style>
 .slidecontainer {
-  width: 75%;
+  width: 50%;
 }
 
 .slider {
@@ -69,7 +69,7 @@ hide:
     Languages: Common
 
 <div class="slidecontainer">
-  <input type="range" min="1" max="100" value="50" class="slider" id="myRange">
+  <input type="range" min="0" max="100" value="50" class="slider" id="myRange">
   <p>Value: <span id="demo"></span></p>
 </div>
 
