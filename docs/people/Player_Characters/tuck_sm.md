@@ -101,4 +101,6 @@ hide:
 
         Scatter: Higher damage within 5'
 
+        Automatic: On attack choose to make two attacks with disadvantage instead
+
 </div>
