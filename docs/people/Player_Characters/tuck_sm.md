@@ -43,33 +43,8 @@ hide:
 
 # Tuck - ESTOC Class 4th Line 2nd Iteration
 
-!!! abstract inline end "Medium Vect Lawful Evil"
-
-    Lvl 5 Gadgeteer(Futarist)/ Lvl 5 Fighter(Battlemaster)
-
-    Str 18(+4) Dex 20(+5) Con 19(+4)<br>
-    Int 19(+4) Wis 14(+2) Chr 13(+1)
-
-    Saves: Str +8 Dex +9 Con +8<br>
-    +8 vs Spell
-
-    Init +2 | AC 19 | Spd 30<br>
-    HP Max:<br>
-    Hit Dice: 5d6/5d10
-
-    Resistance: Exhaustion<br>
-    Immune: Poison, Charmed, Sleep, Non-Magical Disease
-
-    Skills: Athletics +7, Perception +7, Stealth +9, Survival +6, Tech +7
-
-    Senses: Thermalsight(30ft)<br>
-    Passive Perception: 17<br>
-    Passive Insight: 12
-
-    Languages: Common
-
 <div class="slidecontainer">
-  <input type="range" min="0" max="100" value="50" class="slider" id="myRange">
+  <input type="range" min="0" max="123" value="50" class="slider" id="myRange">
   <p>Value: <span id="demo"></span></p>
 </div>
 
@@ -82,6 +57,33 @@ slider.oninput = function() {
   output.innerHTML = this.value;
 }
 </script>
+
+
+
+!!! abstract inline end "Medium Vect Lawful Evil"
+
+    Lvl 5 Gadgeteer(Futarist)/ Lvl 5 Fighter(Battlemaster)
+
+    Str 18(+4) Dex 20(+5) Con 19(+4)<br>
+    Int 19(+4) Wis 14(+2) Chr 13(+1)
+
+    Saves: Str +8 Dex +9 Con +8<br>
+    +8 vs Spell
+
+    Init +2 | AC 19 | Spd 30<br>
+    HP Max:123<br>
+    Hit Dice: 5d6/5d10
+
+    Resistance: Exhaustion<br>
+    Immune: Poison, Charmed, Sleep, Non-Magical Disease
+
+    Skills: Athletics +7, Perception +7, Stealth +9, Survival +6, Tech +7
+
+    Senses: Thermalsight(30ft)<br>
+    Passive Perception: 17<br>
+    Passive Insight: 12
+
+    Languages: Common
 
 | Attack Name        | Atk/ Dam (Type)                   | Range  | Properties                          |
 | :----------------- | :------------------------------   |:------ | :---------------------------------- |
