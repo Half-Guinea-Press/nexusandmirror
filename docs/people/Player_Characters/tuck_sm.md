@@ -29,9 +29,9 @@ hide:
 
 | Attack Name        | Atk/ Dam (Type)                   | Range  | Properties                          |
 | :----------------- | :------------------------------   |:------ | :---------------------------------- |
-| Antimatter Carbine | +10/2d6 :material-skull:          | 30/120 | Automatic, Blaster, Foregrip        |
-| Blitz Cannon       | +10/2d8 :material-lightning-bolt: | 10/30  | Blaster, Hvy, Scatter(2d10), 2-Hand |
-| Arm Blade (L Arm)  | +9/1d6+5 :material-sword:         | 5      | No Disarm, Fineese, Light           |
+| Antimatter Carbine | +11/2d6 :material-skull:          | 30/120 | Automatic, Blaster, Foregrip        |
+| Blitz Cannon       | +11/2d8 :material-lightning-bolt: | 10/30  | Blaster, Hvy, Scatter(2d10), 2-Hand |
+| Arm Blade (L Arm)  | +10/1d6+5 :material-sword:        | 5      | No Disarm, Fineese, Light           |
 
 <div class="grid cards" markdown>
 
