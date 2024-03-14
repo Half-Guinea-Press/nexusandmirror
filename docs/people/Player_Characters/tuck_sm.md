@@ -4,79 +4,28 @@ hide:
   - navigation
 ---
 
-<style>
-.slidecontainer {
-  width: 50%;
-}
-
-.slider {
-  -webkit-appearance: none;
-  width: 100%;
-  height: 25px;
-  background: #d3d3d3;
-  outline: none;
-  opacity: 0.7;
-  -webkit-transition: .2s;
-  transition: opacity .2s;
-}
-
-.slider:hover {
-  opacity: 1;
-}
-
-.slider::-webkit-slider-thumb {
-  -webkit-appearance: none;
-  appearance: none;
-  width: 25px;
-  height: 25px;
-  background: #04AA6D;
-  cursor: pointer;
-}
-
-.slider::-moz-range-thumb {
-  width: 25px;
-  height: 25px;
-  background: #04AA6D;
-  cursor: pointer;
-}
-</style>
-
 # Tuck - ESTOC Class 4th Line 2nd Iteration
 
-<div class="slidecontainer">
-  <input type="range" min="0" max="123" value="50" class="slider" id="myRange">
-  <p>Value: <span id="demo"></span></p>
-</div>
+<div class="grid cards" markdown>
 
-<script>
-var slider = document.getElementById("myRange");
-var output = document.getElementById("demo");
-output.innerHTML = slider.value;
-
-slider.oninput = function() {
-  output.innerHTML = this.value;
-}
-</script>
-
-??? abstract "Medium Vect Lawful Evil"
-
-    Lvl 5 Gadgeteer(Futarist)/ Lvl 5 Fighter(Battlemaster)
+-   Medium Vect Lawful Evil
 
     Str 18(+4) Dex 20(+5) Con 19(+4) Int 19(+4) Wis 14(+2) Chr 13(+1)
 
-    Saves: Str +8 Dex +9 Con +8 vs Spell +8
+    Skills: Athletics +7, Perception +7, Stealth +9, Survival +6, Tech +7<br>
+    Languages: Common
+    
+    Senses: Thermalsight(30ft) | Passive Perception: 17 | Passive Insight: 12
 
-    Init +2 | AC 19 | Spd 30<br>
-    HP Max:123 | Hit Dice: 5d6/5d10
+-   Lvl 5 Gadgeteer(Futarist)/ Lvl 5 Fighter(Battlemaster)
 
+    Saves: Str +8 Dex +9 Con +8<br>
+    vs Spell +8
+
+    Init +2 | AC 19 | Spd 30 | HP Max:123 | Hit Dice: 5d6/5d10<br>
     Resistance: Exhaustion | Immune: Poison, Charmed, Sleep, Non-Magical Disease
 
-    Skills: Athletics +7, Perception +7, Stealth +9, Survival +6, Tech +7
-
-    Senses: Thermalsight(30ft)<br>
-    Passive Perception: 17 | Passive Insight: 12
-
-    Languages: Common
+</div>
 
 | Attack Name        | Atk/ Dam (Type)                   | Range  | Properties                          |
 | :----------------- | :------------------------------   |:------ | :---------------------------------- |
