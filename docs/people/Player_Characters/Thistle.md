@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards" markdown>
 
--   <a href="https://half-guinea-press.github.io/nexusandmirror/images/Thistle.jpg"><img src="https://half-guinea-press.github.io/nexusandmirror/images/Thistle_head.jpg" alt="Tuck"></a><br>
+-   <a href="https://half-guinea-press.github.io/nexusandmirror/images/Thistle.jpg"><img src="https://half-guinea-press.github.io/nexusandmirror/images/Thistle_head.jpg" alt="Thistle"></a><br>
     Lvl  9 Wizard(School of Automata) / Lvl 2 Cleric(Void Domain)<br>
     Spirithost     Small    Lawful Evil    Background
 
