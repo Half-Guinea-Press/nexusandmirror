@@ -3,7 +3,47 @@ hide:
   - toc
   - navigation
 ---
+# Thistle
 
+<div class="grid cards" markdown>
+
+-   <a href="https://half-guinea-press.github.io/nexusandmirror/images/Thistle.jpg"><img src="https://half-guinea-press.github.io/nexusandmirror/images/Thistle_head.jpg" alt="Tuck"></a><br>
+    Lvl  9 Wizard(School of Automata) / Lvl 2 Cleric(Void Domain)<br>
+    Spirithost     Small    Lawful Evil    Background
+
+    Str (+) Dex (+) Con (+)<br>
+    Int (+) Wis (+) Chr (+)
+
+-   Saves: <br>
+    Prof: +4 Init: + Spd: 30 AC: 
+    HP Max:   Hit Dice: 9d6 2d8
+
+    Feats: 
+
+    Skills: 
+
+    Weapons: <br>
+    Armor: 
+    
+    Tools: 
+    
+    Languages: Common
+
+-   Racial Features
+
+    
+    ---
+
+   
+
+    ---
+
+    
+
+-   Equipment
+
+    ---
+</div>
 # SPIRITHOST
 Hers was a kind of unearthly beauty that resisted the very confines of reality—her hair so airy that it flowed in defiance of gravity, her skin so fair that it could be seen right through. I knew not if she was alive—or if I was, given the circumstances—but very little of that mattered for the first few moments, which seemed to stretch on for eons.
 —Jethro Meddlitt, gnome wizard, meeting a spirithost 
