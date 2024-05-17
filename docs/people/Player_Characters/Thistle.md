@@ -35,23 +35,19 @@ hide:
     - Etheral Nature
     - Spirit Speech
     - Translucent
-    ---
-    Wizard Features
+-   Wizard Features
     - Arcane Recovery
     - Spellcrafting
     - Arcane Tradition(School of Automata)
     - Cantrip Formulas
-    ---
-    School of automata
+-   School of automata
     - Engineering Savant
     - Assault Programming
-    ---
-    Clerc Features
+-   Clerc Features
     - Spell Casting
     - Divine Domain(Void)
     - Channel Divinity(1 per rest)
-    ---
-    Void Domain
+-   Void Domain
     - Darkvision 60'
     - Channel Divinity: Void
 -   Wizard Spells
