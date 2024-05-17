@@ -20,12 +20,11 @@ hide:
 
     Feats: 
 
-    Skills: 
+    Skills: Arcana(+), Medicine(+), Technology(+)
 
     Weapons: <br>
-    Armor: 
-    
-    Tools: 
+    Armor: Light Armor, Medium Armor, Shield    
+    Tools: Machinist Tools
     
     Languages: Common
 
@@ -50,11 +49,42 @@ hide:
 -   Void Domain
     - Darkvision 60'
     - Channel Divinity: Void
+        - Barrier
+        - Javelin
+        - Pocket
 -   Wizard Spells
--   Cleric Spells
--   Equipment
-
     ---
+    Cantrips
+    - Message
+    - Minor Illusion
+    - Mending
+    - Hardlight Needle
+    ---
+    1st Level
+    -
+    ---
+    2nd Level
+    - 
+    ---
+    3rd Level
+    - 
+    ---
+    4th Level
+    - 
+    ---
+    5th Level
+    - 
+-   Cleric Spells
+    ---
+    Cantrips
+    - Void Light
+    - Guidance
+    - Toll the Dead
+    - Spare the Dying
+    ---
+    1st Lvl
+    - False Life
+    - Guiding Bolt
 </div>
 # SPIRITHOST
 Hers was a kind of unearthly beauty that resisted the very confines of reality—her hair so airy that it flowed in defiance of gravity, her skin so fair that it could be seen right through. I knew not if she was alive—or if I was, given the circumstances—but very little of that mattered for the first few moments, which seemed to stretch on for eons.
