@@ -56,6 +56,7 @@ hide:
 
     ---
     Cantrips
+
     - Message
     - Minor Illusion
     - Mending
