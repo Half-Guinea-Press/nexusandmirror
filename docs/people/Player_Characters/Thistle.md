@@ -53,6 +53,7 @@ hide:
         - Javelin
         - Pocket
 -   Wizard Spells
+
     ---
     Cantrips
     - Message
@@ -60,29 +61,45 @@ hide:
     - Mending
     - Hardlight Needle
     ---
+
     1st Level
+
     -
     ---
+
     2nd Level
+
     - 
     ---
+
     3rd Level
+
     - 
     ---
+
     4th Level
+
     - 
     ---
+
     5th Level
+
     - 
+
 -   Cleric Spells
+
     ---
+
     Cantrips
+
     - Void Light
     - Guidance
     - Toll the Dead
     - Spare the Dying
     ---
+
     1st Lvl
+
     - False Life
     - Guiding Bolt
 </div>
