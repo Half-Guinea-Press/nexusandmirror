@@ -30,16 +30,32 @@ hide:
     Languages: Common
 
 -   Racial Features
-
-    
+    - Etheral Vision 60'
+    - Incorporeal Movement
+    - Etheral Nature
+    - Spirit Speech
+    - Translucent
     ---
-
-   
-
+    Wizard Features
+    - Arcane Recovery
+    - Spellcrafting
+    - Arcane Tradition(School of Automata)
+    - Cantrip Formulas
     ---
-
-    
-
+    School of automata
+    - Engineering Savant
+    - Assault Programming
+    ---
+    Clerc Features
+    - Spell Casting
+    - Divine Domain(Void)
+    - Channel Divinity(1 per rest)
+    ---
+    Void Domain
+    - Darkvision 60'
+    - Channel Divinity: Void
+-   Wizard Spells
+-   Cleric Spells
 -   Equipment
 
     ---
