@@ -49,17 +49,30 @@ hide:
     ---
     Cantrips
 
+   - Firebolt
+   - Hardlight Needle
+   - Technomancy
+   - Mage Hand
+   - Minor Illusion
+   - Message
 
     ---
 
     1st Level
 
-    -
+    - Acceleration/Decceleration
+	- Conjure Cover
+	- Rumor
+	- Time's Arrows
+	- Find Familiar
+	- Feather Fall
+	- Mage Armor
+	- 
     ---
 
     2nd Level
 
-    - 
+    - Geodesic
     ---
 
     3rd Level
