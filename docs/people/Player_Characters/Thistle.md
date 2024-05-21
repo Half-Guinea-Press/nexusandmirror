@@ -47,15 +47,15 @@ hide:
 -   Spellbook
 
     ---
+	
     Cantrips
 
-   - Firebolt
-   - Hardlight Needle
-   - Technomancy
-   - Mage Hand
-   - Minor Illusion
-   - Message
-
+    - Firebolt
+    - Hardlight Needle
+    - Technomancy
+    - Mage Hand
+    - Minor Illusion
+    - Message
     ---
 
     1st Level
