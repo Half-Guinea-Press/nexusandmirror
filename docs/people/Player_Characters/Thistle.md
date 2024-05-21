@@ -11,56 +11,45 @@ hide:
     Lvl  9 Wizard(School of Automata) / Lvl 2 Cleric(Void Domain)<br>
     Spirithost     Small    Lawful Evil    Background
 
-    Str (+) Dex (+) Con (+)<br>
-    Int (+) Wis (+) Chr (+)
+    Str 14(+2) Dex 17(+3) Con 17(+3)<br>
+    Int 20(+5) Wis 16(+3) Chr 16(+3)
 
--   Saves: <br>
-    Prof: +4 Init: + Spd: 30 AC: 
-    HP Max:   Hit Dice: 9d6 2d8
+-   Saves: Int +9 Wis +7<br>
+    Prof: +4 Init: + Spd: 15/40 fly 30/25 fly AC: 
+    HP Max: 11d6+33  Hit Dice: 11d6
 
     Feats: 
 
-    Skills: Arcana(+), Medicine(+), Technology(+)
+    Skills: Arcana(+9), History(+9), Technology(+9)
 
-    Weapons: <br>
-    Armor: Light Armor, Medium Armor, Shield    
+    Weapons: Daggers, darts, slings, quarterstaffs, light crossbows<br>
+    Armor: none
     Tools: Machinist Tools
     
-    Languages: Common
+    Languages: Common, Sylvan
 
 -   Racial Features
-    - Etheral Vision 60'
-    - Incorporeal Movement
-    - Etheral Nature
-    - Spirit Speech
-    - Translucent
+    - Transformation
+	- Burning Spirit
+	- Pyromancy
+
 -   Wizard Features
     - Arcane Recovery
     - Spellcrafting
     - Arcane Tradition(School of Automata)
     - Cantrip Formulas
+	
 -   School of automata
     - Engineering Savant
     - Assault Programming
--   Clerc Features
-    - Spell Casting
-    - Divine Domain(Void)
-    - Channel Divinity(1 per rest)
--   Void Domain
-    - Darkvision 60'
-    - Channel Divinity: Void
-        - Barrier
-        - Javelin
-        - Pocket
--   Wizard Spells
+    - Construct Upgrade
+	
+-   Spellbook
 
     ---
     Cantrips
 
-    - Message
-    - Minor Illusion
-    - Mending
-    - Hardlight Needle
+
     ---
 
     1st Level
@@ -87,69 +76,70 @@ hide:
 
     - 
 
--   Cleric Spells
 
-    ---
-
-    Cantrips
-
-    - Void Light
-    - Guidance
-    - Toll the Dead
-    - Spare the Dying
-    ---
-
-    1st Lvl
-
-    - False Life
-    - Guiding Bolt
 </div>
-# SPIRITHOST
-Hers was a kind of unearthly beauty that resisted the very confines of reality—her hair so airy that it flowed in defiance of gravity, her skin so fair that it could be seen right through. I knew not if she was alive—or if I was, given the circumstances—but very little of that mattered for the first few moments, which seemed to stretch on for eons.
-—Jethro Meddlitt, gnome wizard, meeting a spirithost 
 
-Half-immaterial and half-flesh, spirithosts are the eerie, spectral, humanlike residents of the Border Ethereal. Though often confused for specters, ghosts, and other incorporeal undead, spirithosts are very much alive, as much as their shifting, partly-material bodies allow.
+Pixie Traits
+As a Pixie your character is blessed with special attributes,
+that set it apart from other creatures
+Age. Pixies age very slowly, if at all. They are created
+fully formed, physically and mentally, taking on the
+appearance of a beautiful human of the age of 10 to 30
+with pointed ears.
+Alignment. Pixies are as wild like the elements of
+nature they were created from, but also know that nature
+has rules that it follows. As such the fey are often neutral
+on the lawful-chaos spectrum, tho some do go to the ends
+of it sometimes. Protecting nature and its freedom is of
+utmost importance to pixies, much like other fey, and they
+are more often good than not.
+Size. In Pixie form pixie sizes ranging from 3 to 5 inches
+in sprite form. In giant form they are 12 times this size,
+going from 3 to 5 inches to 3 to 5 feet tall. Your size is tiny
+as a Pixies and medium as a giant.
+Speed. Your base walking speed is 15 feet, and your
+base flying speed is 40 feet in pixie form, 30 feet walking
+and 25 flying in giant form.
+Transformation. pixies have the ability to change
+between their sprite and giant forms at will, with use of an
+action. Both forms have their pros and cons however
+Pixie form is the most well known form. Pixies have the
+ability to fly and are able to dash through the air the same
+as when walking in giant form. This ability makes pixies
+extremely mobile, but it has its cons as well. When in Pixie
+form, pixies are unable to use any attacks, or spells due to
+their small size. Flying vertically counts as difficult terrain.
+In giant form pixies are able to use their normal attacks
+and spells as any other humanoid can, and gain a faster
+walking speed.
+Fey Creature. You are immune to being charmed, and
+can't be put to sleep by magic. You have 60 ft Darkvision
+and 60 ft Truesight
+Languages. You can speak, read, and write common
+and sylvan. Sylvan is an old language, being the root of
+elvish. The language is most commonly known for being
+used in spell incantations, and it is said that one can
+become entranced by its beauty and fluidity.
 
-## Spectral Sons and Daughters
-The Ethereal Plane is generally thought to be lifeless, exclusively the domain of restless, incorporeal undead and other transient souls. While it is true that there are no creatures native to that plane, the Border Ethereal has its fair share of adopted inhabitants, such as the blink dog, phase spider, and spirithost. The latter is the only humanoid to hail from this desolate plane, and might be considered its only true descendant.
-Though most spirithosts reside on the Material Plane, they can step sideways into the Ethereal naturally, allowing them to bypass physical obstacles, and can see into the Ethereal effortlessly, allowing them to navigate both planes at once. They can even communicate with the dead directly, a feat few mediums take lightly.
+Ignan
+Those created from flames have explosively unstable
+personalities. They are often times the most problematic,
+due to their short fuses, but Ignan are highly valuable
+allies. What these flaming Pixies lack in predictability, they
+make up for in their ability to channel magical forces,
+making them powerful sorcerers.
+Ignan elemental colors are vibrant oranges and reds.
+Their shimmering hair is short and forms into whispy
+shimmering locks, causing it to resemble actual fire. Their
+wings resemble autumn leaves, and have even length to
+width proportions.
+Ability Score Increase. Your charisma score is
+increased by 2 and your intelligence score is increased by
+1
+Burning Spirit. You are resistant to fire damage.
+Pyromancy. You know the Firebolt cantrip, charisma is
+your spellcasting ability for this cantrip.
 
-## Branded Undead
-Though their bodies resemble those of ghosts—slightly translucent, glowing from inside with a pale, white light—spirithosts are not undead. Far from it: they are born, grow old, and die, and can even raise children.
-Despite this, most spirithosts are wrongfully believed to be undead, their eerie, spectral forms too similar to ghosts for the layman to differentiate. Many a well-meaning but ignorant cleric has tried to turn or banish a spirithost, to no avail. To avoid such conflict, spirithosts often avoid large, unfamiliar towns, or disguise their ethereality from others.
-
-## Spirithost Names
-Spirithost names are gentle and sibilant, sounding as if they are whispered. They sound strange in most tongues, for they originate in an old, now forgotten, dialect of Common, practiced by the spirithost in days long past.
-
-### Male Names. 
-Astras, Boreas, Cin'nilas, Cusnon, Fesim, Mesaron, Senvas, Servalas, Sesirops, Yalsin
-### Female Names. 
-Amias, Belias, Heathimis, Lethreas, Nix'silia, Priscilla, Sayu, Shavaras, Sunda, Wishnas
-
-## Spirithost Traits
-Your borderline ethereal body grants you the following traits:
-### Ability Score Increase. 
-Your Dexterity score increases by 1, and any other ability score of your choice increases by 2.
-Age. Spirithost do not experience time in the same way as most mortal creatures. As a result, even though they mature in their teens, their lives can stretch on for hundreds of years.
-### Alignment. 
-Though some spirithosts are evil, most are simply chaotic, harboring a deep distrust for institutions that so readily brand them as undead.
-### Size. 
-Spirithost stand as tall as humans, usually around 5 to 6 feet tall. However, their slightly ethereal form is only loosely affiliated with gravity, weighing half as much as a similarly-sized human. Your size is Medium.
-### Speed. 
-Spirithosts move gracefully, as if drifting through water. Your base walking speed is 30 feet.
-### Ethereal Vision. 
-Your supernatural nature grants you superior vision. While you are on the Material Plane, you can see 60 feet into the Ethereal Plane.
-### Incorporeal Movement. 
-You can move through other creatures as if they were difficult terrain. You can also move through solid objects, but your partially-material form cannot pass through more than one foot of stone, one inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
-If you end your movement occupying the same spot as a solid object or creature, you are immediately shunted to the nearest unoccupied space that you can occupy and take force damage equal to twice the number of feet you are moved.
-### Ethereal Nature. 
-You can go twice as long without eating, drinking, or breathing, without penalty.
-### Spirit Speech. 
-You can cast the spell speak with dead, without using spell slots or material components. You can only ask one question of a corpse when you cast this spell in this way. Once you use this trait, you can't use it again until you finish a long rest.
-### Translucence. 
-As a bonus action, you can magically turn invisible until the start of your next turn or until you attack, make a damage roll, or force someone to make a saving throw. Creatures which can see into the Ethereal Plane can see you normally. Once you use this trait, you can’t use it again until you finish a short or long rest.
-### Languages. 
-You can speak, read, and write Common and one other language of your choice.
 
 # School of Automata
 Inspired by the practicality of gadgeteers, wizards in the School of Automata depart from the traditional realm of scholarly book-smart mages in favor of a hands-on, mechanical approach to their magic. These so-called mechamancers use their expertise in mechanist's tools, engineering, and the principles of magical technology to animate obedient automatons to follow their every command. Typically, mechamancers reside some distance away from the dangers of exploring, while their creations engage in the unpleasantness of combat on their behalf.
