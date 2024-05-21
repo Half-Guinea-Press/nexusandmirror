@@ -14,8 +14,9 @@ hide:
     Str 14(+2) Dex 17(+3) Con 17(+3)<br>
     Int 20(+5) Wis 16(+3) Chr 16(+3)
 
--   Saves: Int +9 Wis +7<br>
-    Prof: +4 Init: + Spd: 15/40 fly 30/25 fly AC: 
+    Saves: Int +9 Wis +7<br>
+
+-   Prof: +4 Init: + Spd: 15/40 fly 30/25 fly AC: <br>
     HP Max: 11d6+33  Hit Dice: 11d6
 
     Feats: 
@@ -23,9 +24,8 @@ hide:
     Skills: Arcana(+9), History(+9), Technology(+9)
 
     Weapons: Daggers, darts, slings, quarterstaffs, light crossbows<br>
-    Armor: none
-    Tools: Machinist Tools
-    
+    Armor: none<br>
+    Tools: Machinist Tools<br>
     Languages: Common, Sylvan
 
 -   Racial Features
@@ -43,12 +43,14 @@ hide:
     - Engineering Savant
     - Assault Programming
     - Construct Upgrade
-	
--   Spellbook
 
-    ---
-	
-    Cantrips
+</div>
+
+Spellbook
+
+<div class="grid cards" markdown>
+
+-   Cantrips
 
     - Firebolt
     - Hardlight Needle
@@ -56,9 +58,8 @@ hide:
     - Mage Hand
     - Minor Illusion
     - Message
-    ---
 
-    1st Level
+-   1st Level
 
     - Acceleration/Decceleration
 	- Conjure Cover
@@ -68,28 +69,29 @@ hide:
 	- Feather Fall
 	- Mage Armor
 	- 
-    ---
 
-    2nd Level
+-   2nd Level
 
     - Geodesic
     ---
 
-    3rd Level
+-   3rd Level
 
     - 
     ---
 
-    4th Level
+-   4th Level
 
     - 
     ---
 
-    5th Level
+-   5th Level
 
     - 
 
+-   6th Level
 
+-   7th Level
 </div>
 
 Pixie Traits
