@@ -75,7 +75,7 @@ hide:
     
     === "2"
     
-        - Geodesic Shield
+        - Protect Threshold
         - Repulsor Ring
         - Tasha's Mind Whip
         - Zone of Atmosphere 
