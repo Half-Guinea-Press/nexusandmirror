@@ -64,7 +64,7 @@ hide:
     
     === "1"
     
-        - [Acceleration/Decceleration](spellbook/acceleration_deceleration.md
+        - [Acceleration/Decceleration](spellbook/acceleration_deceleration.md)
         - [Conjure Cover](spellbook/conjure_cover.md)
         - [Feather Fall](spellbook/feather_fall.md)
         - [Find Familiar](spellbook/find_familiar.md)
