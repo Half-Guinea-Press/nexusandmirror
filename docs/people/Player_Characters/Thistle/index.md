@@ -55,7 +55,7 @@ hide:
     === "C"
     
         - [Firebolt](spellbook/firebolt.md)
-        - Hardlight Needle
+        - [Hardlight Needle](spellbook/hardlight_needle.md)
         - Mage Hand
         - Message
         - Minor Illusion
