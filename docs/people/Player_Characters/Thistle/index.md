@@ -33,18 +33,20 @@ hide:
 
 -   Features
 
-    ---
-    === Background/Feats
+    === "Background/Feats"
+    
     - Exile Network
     - Gift of the Gem Dragon
     - Telekenetic
 
-    === Racial 
+    === "Racial"
+    
     - Transformation
     - Burning Spirit
     - Pyromancy
  
-    === Wizard
+    === "Wizard"
+    
     - Arcane Recovery
     - Spellcrafting
     - Cantrip Formulas
@@ -54,14 +56,13 @@ hide:
 
 -   Companions
   
-    ---
-    === (Tressym Familiar)
+    === "(Tressym Familiar)"
 
-    === (Engineering Savant Slot 1)
+    === "(Engineering Savant Slot 1)"
 
-    === (Engineering Savant Slot 2)
+    === "(Engineering Savant Slot 2)"
 
-    === (Engineering Savant Slot 3)
+    === "(Engineering Savant Slot 3)"
 </div>
 
 Spellbook
