@@ -60,16 +60,20 @@ Spellbook
 -   Cantrips
 
     ---
-    - Firebolt
-    - Hardlight Needle
     - Light
     - Mage Hand
     - Message
     - Minor Illusion
+    - Technomancy
+
+-   Combat Cantrips
+
+    ---
+    - Firebolt
+    - Hardlight Needle
     - Minor Life Steal
     - Shocking Grasp
-    - Technomancy
-    - Toll the Dead 
+    - Toll the Dead
 
 -   1st Level
 
@@ -110,7 +114,7 @@ Spellbook
 
 -   5th Level
 
-    --
+    ---
     - Bigsby Hand
     - Synaptic Static
     - Wall of Force
