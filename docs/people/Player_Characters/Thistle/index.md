@@ -29,28 +29,41 @@ hide:
 
 -   Features
 
-    Feats:
-
-    - Gift of the Gem Dragon
-    - Telekenetic
-
-    Racial Features
-    
-    - Transformation
-    - Burning Spirit
-    - Pyromancy
+    ---
+    - Feats
+        - Gift of the Gem Dragon
+        - Telekenetic
+    - Racial Features
+        - Transformation
+        - Burning Spirit
+        - Pyromancy
 
 -   Wizard Features
+
+    ---
     - Arcane Recovery
     - Spellcrafting
     - Arcane Tradition(School of Automata)
     - Cantrip Formulas
 	
 -   School of automata
+
+    ---
     - Engineering Savant
+        - Defense Drone
+        - Mechanical Spider
+        - Medical Drone
+        - Recone Drone
+        - Single Task Automaton
+        - Multi-Task Automaton
     - Assault Programming
     - Construct Upgrade
+        - Alloy Chasis
+        - Energy Plating
+        - High-Torque Motors
 
+-   Companions
+    ---
 </div>
 
 Spellbook
