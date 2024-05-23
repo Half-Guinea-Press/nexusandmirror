@@ -16,15 +16,13 @@ hide:
 
     === "Abilities"
 
-        ---
         Str 14(+2) Dex 17(+3) Con 17(+3)<br>
         Int 20(+5) Wis 16(+3) Chr 16(+3)
 
         Saves: Int +9 Wis +7<br>
         Spd: 15/40 fly 30/25 fly<br>
         Init +3   AC: <br>
-        HP Max: 11d6+33  Hit Dice: 11d6
-    
+        HP Max: 11d6+33  Hit Dice: 11d6<br>    
         Proficiency Bonus +4
         
         Skills: Arcana(+9), Deception(+7), History(+9), Survival(+7), Technology(+9)
@@ -38,7 +36,6 @@ hide:
 
     === "Features"
 
-        ---
         - Exile Network
         - Gift of the Gem Dragon
         - Telekenetic
@@ -52,83 +49,86 @@ hide:
         - Assault Programming
         - Construct Upgrade
 
--   Companions
-  
-    === "(Tressym Familiar)"
 
-    === "(Engineering Savant Slot 1)"
+-   Spellbook
 
-    === "(Engineering Savant Slot 2)"
+    === Cantrips
+    
+        - Firebolt
+        - Hardlight Needle
+        - Mage Hand
+        - Message
+        - Minor Illusion
+        - Shocking Grasp
+        - Technomancy
+    
+    === 1st Level
+    
+        - Acceleration/Decceleration
+        - Conjure Cover
+        - Feather Fall
+        - Find Familiar
+        - Lashing Tendrils
+        - Mage Armor
+        - Rumor
+        - Time's Arrows 
+    
+    === 2nd Level
+    
+        - Geodesic Shield
+        - Repulsor Ring
+        - Tasha's Mind Whip
+        - Zone of Atmosphere 
+    
+    === 3rd Level
+    
+        - Conjure Canonball
+        - Create Vacuum
+        - Greater Mending
+        - Hardlight Construction  
+    
+    === 4th Level
+    
+        - Earth Shattering Kaboom
+        - Fabricate
+        - Halucinary Terrain 
+        - Hunger of Earth
+        - Polymorph
+    
+    === 5th Level
 
-    === "(Engineering Savant Slot 3)"
+        - Bigsby Hand
+        - Synaptic Static
+        - Wall of Force
+        - Wall of Light 
+    
+    === 6th Level
+    
+        - Arcane Capacitor
+        - Chain Lightning
+        - Disintegrate
+
 </div>
-
-Spellbook
 
 <div class="grid cards" markdown>
 
--   Cantrips
+-   Familiar
+  
+    Tressym Familiar
 
-    ---
-    - Firebolt
-    - Hardlight Needle
-    - Mage Hand
-    - Message
-    - Minor Illusion
-    - Shocking Grasp
-    - Technomancy
+-   Engineering Savant (up to 3)
 
--   1st Level
-
-    ---
-    - Acceleration/Decceleration
-    - Conjure Cover
-    - Feather Fall
-    - Find Familiar
-    - Lashing Tendrils
-    - Mage Armor
-    - Rumor
-    - Time's Arrows 
-
--   2nd Level
-
-    ---
-    - Geodesic Shield
-    - Repulsor Ring
-    - Tasha's Mind Whip
-    - Zone of Atmosphere 
-
--   3rd Level
-
-    ---
-    - Conjure Canonball
-    - Create Vacuum
-    - Greater Mending
-    - Hardlight Construction  
-
--   4th Level
-
-    ---
-    - Earth Shattering Kaboom
-    - Fabricate
-    - Halucinary Terrain 
-    - Hunger of Earth
-    - Polymorph
-
--   5th Level
-
-    ---
-    - Bigsby Hand
-    - Synaptic Static
-    - Wall of Force
-    - Wall of Light 
-
--   6th Level
-
-    ---
-    - Arcane Capacitor
-    - Chain Lightning
-    - Disintegrate
+    === "Defense Drone"
+	
+	=== "Mechanical Spider"
+	
+	=== "Medical Drone"
+	
+	=== "Recon Drone"
+	
+	=== "Single Task Automaton"
+	
+	=== "Multi-Task Automaton"
 
 </div>
 
