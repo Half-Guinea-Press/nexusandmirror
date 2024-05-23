@@ -54,59 +54,59 @@ hide:
 
     === "C"
     
-        - [Firebolt](spellbook/firebolt.md)
+        - [Firebolt](spellbook/fire_bolt.md)
         - [Hardlight Needle](spellbook/hardlight_needle.md)
-        - Mage Hand
-        - Message
-        - Minor Illusion
-        - Shocking Grasp
-        - Technomancy
+        - [Mage Hand](spellbook/mage_hand)
+        - [Message](spellbook/message.md)
+        - [Minor Illusion](spellbook/minor_illusion.md)
+        - [Shocking Grasp](spellbook/shocking_grasp)
+        - [Technomancy](spellbook/technomancy.md)
     
     === "1"
     
-        - Acceleration/Decceleration
-        - Conjure Cover
-        - Feather Fall
-        - Find Familiar
-        - Lashing Tendrils
-        - Mage Armor
-        - Rumor
-        - Time's Arrows 
+        - [Acceleration/Decceleration](spellbook/acceleration_deceleration.md
+        - [Conjure Cover](spellbook/conjure_cover.md)
+        - [Feather Fall](spellbook/feather_fall.md)
+        - [Find Familiar](spellbook/find_familiar.md)
+        - [Lashing Tendrils](spellbook/lashing_tendrils.md)
+        - [Mage Armor](spellbook/mage_armor.md)
+        - [Rumor](spellbook/rumor.md)
+        - [Time's Arrow](spellbook/times_arrow.md)
     
     === "2"
     
-        - Protect Threshold
-        - Repulsor Ring
-        - Tasha's Mind Whip
-        - Zone of Atmosphere 
+        - [Protect Threshold](spellbook/protect_threshold.md)
+        - [Repulsor Ring](spellbook/repulsor_ring.md)
+        - [Tasha's Mind Whip](spellbook/tashas_mind_whip.md)
+        - [Zone of Atmosphere](spellbook/zone_of_atmosphere.md)
     
     === "3"
     
-        - Conjure Canonball
-        - Create Vacuum
-        - Greater Mending
-        - Hardlight Construction  
+        - [Conjure Canonball](spellbook/conjure_cannonball.md)
+        - [Create Vacuum](spellbook/create_vacuum.md)
+        - [Greater Mending](spellbook/greater_mending.md)
+        - [Hardlight Construction](spellbook/hardlight_construction.md)
     
     === "4"
     
-        - Earth Shattering Kaboom
-        - Fabricate
-        - Halucinary Terrain 
-        - Hunger of Earth
-        - Polymorph
+        - [Earth Shattering Kaboom](spellbook/earth)shattering_kaboom.md)
+        - [Fabricate](spellbook/fabricate.md)
+        - [Hallucinatory Terrain](spellbook/hallucinatory_terrain.md)
+        - [Hunger of Earth](spellbook/hunger_of_earth.md)
+        - [Polymorph](spellbook/polymorph.md)
     
     === "5"
 
-        - Bigsby Hand
-        - Synaptic Static
-        - Wall of Force
-        - Wall of Light 
+        - [Bigsby Hand](spellbook/bigsby_hand.md)
+        - [Synaptic Static](spellbook/synaptic_static.md)
+        - [Wall of Force](spellbook/wall_of_force.md)
+        - [Wall of Light](spellbook/wall_of_light.md)
     
     === "6"
     
-        - Arcane Capacitor
-        - Chain Lightning
-        - Disintegrate
+        - [Arcane Capacitor](spellbook/arcane_capacitor.md)
+        - [Chain Lightning](spellbook/chain_lightning.md)
+        - [Disintegrate](spellbook/disintegrate.md)
 
 -   Familiar
 
