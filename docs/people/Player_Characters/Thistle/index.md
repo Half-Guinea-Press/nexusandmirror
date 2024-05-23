@@ -5,6 +5,10 @@ hide:
 ---
 # Thistle
 
+![Thistle](https://half-guinea-press.github.io/nexusandmirror/images/thistle_head.jpg){ align=left }
+Lvl  9 Wizard(School of Automata)<br>
+Pixe(Ignan)<br>
+
 <div class="grid cards" markdown>
 
 -   <a href="https://half-guinea-press.github.io/nexusandmirror/images/thistle_full.jpg"><img src="https://half-guinea-press.github.io/nexusandmirror/images/thistle_head.jpg" alt="Thistle"></a>
