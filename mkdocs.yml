@@ -99,4 +99,4 @@ extra_javascript:
   - javascripts/tablesort.js
 
 extra_css:
-  - stylesheets/container.css
+  - stylesheets/extra.css
