@@ -7,31 +7,34 @@ hide:
 
 <div class="grid cards" markdown>
 
--   <a href="https://half-guinea-press.github.io/nexusandmirror/images/Thistle.jpg"><img src="https://half-guinea-press.github.io/nexusandmirror/images/Thistle_head.jpg" alt="Thistle"></a><br>
-    Lvl  9 Wizard(School of Automata) / Lvl 2 Cleric(Void Domain)<br>
-    Spirithost     Small    Lawful Evil    Background
+-   <a href="https://half-guinea-press.github.io/nexusandmirror/images/thistle_full.jpg"><img src="https://half-guinea-press.github.io/nexusandmirror/images/thistle_head.jpg" alt="Thistle"></a>
+
+-   Lvl  9 Wizard(School of Automata) / Lvl 2 Cleric(Void Domain)<br>
+    Pixe(Ignan)    Tiny/Small    Chaotic Neutral    Background
 
     Str 14(+2) Dex 17(+3) Con 17(+3)<br>
     Int 20(+5) Wis 16(+3) Chr 16(+3)
 
     Saves: Int +9 Wis +7<br>
 
--   Prof: +4 Init: + Spd: 15/40 fly 30/25 fly AC: <br>
+    Prof: +4 Init: + Spd: 15/40 fly 30/25 fly AC: <br>
     HP Max: 11d6+33  Hit Dice: 11d6
 
-    Feats: 
-
-    Skills: Arcana(+9), History(+9), Technology(+9)
+-   Skills: Arcana(+9), History(+9), Technology(+9)
 
     Weapons: Daggers, darts, slings, quarterstaffs, light crossbows<br>
     Armor: none<br>
     Tools: Machinist Tools<br>
     Languages: Common, Sylvan
 
--   Racial Features
+-   Features
+
+    Feats:
+
+    Racial Features
     - Transformation
-	- Burning Spirit
-	- Pyromancy
+    - Burning Spirit
+    - Pyromancy
 
 -   Wizard Features
     - Arcane Recovery
@@ -52,6 +55,7 @@ Spellbook
 
 -   Cantrips
 
+    ---
     - Firebolt
     - Hardlight Needle
     - Technomancy
@@ -61,37 +65,61 @@ Spellbook
 
 -   1st Level
 
+    ---
     - Acceleration/Decceleration
-	- Conjure Cover
-	- Rumor
-	- Time's Arrows
-	- Find Familiar
-	- Feather Fall
-	- Mage Armor
-	- 
+    - Conjure Cover
+    - Rumor
+    - Time's Arrows
+    - Find Familiar
+    - Feather Fall
+    - Mage Armor
+    - 
 
 -   2nd Level
 
-    - Geodesic
     ---
+    - Geodesic Shield
+    - Repulsor Ring
+    - Zone of Atmosphere
+    - 
 
 -   3rd Level
 
-    - 
     ---
+    - Hardlight Construction
+    - Greater Mending
+    - Create Vacuum
+    - Conjure Canonball 
 
 -   4th Level
 
-    - 
     ---
+    - Earth Shattering Kaboom
+    - Hunger of Earth
+    - Fabricate
+    - Halucinary Terrain
 
 -   5th Level
 
+    --
+    - Bigsby Hand
+    - Wall of Force
+    - Wall of Light
     - 
 
 -   6th Level
 
+    ---
+    - Arcane Capacitor
+    - Teleros' Terrific Transport
+    - Soul Cage
+    - Disintegrate
+
 -   7th Level
+
+    ---
+    - Astrogation
+    - Teleport
 </div>
 
 Pixie Traits
