@@ -115,19 +115,19 @@ hide:
 
 -   Drones
 
-    === "Defense Drone"
+    === "Defense"
 	
-    === "Medical Drone"
+    === "Medical"
 	
-    === "Recon Drone"
+    === "Recon"
 	
 -   Automatons
 
-    === "Single Task Automaton"
+    === "Mech. Spider"
 
-    === "Mechanical Spider"
+    === "Single Task"
 
-    === "Multi-Task Automaton"
+    === "Multi-Task"
 
 </div>
 
