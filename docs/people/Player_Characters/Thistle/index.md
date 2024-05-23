@@ -54,7 +54,7 @@ hide:
 
     === "C"
     
-        - Firebolt
+        - [Firebolt](spellbook/firebolt.md)
         - Hardlight Needle
         - Mage Hand
         - Message
