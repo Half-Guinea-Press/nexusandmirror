@@ -52,7 +52,7 @@ hide:
 
 -   Spellbook
 
-    === Cantrips
+    === "C"
     
         - Firebolt
         - Hardlight Needle
@@ -62,7 +62,7 @@ hide:
         - Shocking Grasp
         - Technomancy
     
-    === 1st Level
+    === "1"
     
         - Acceleration/Decceleration
         - Conjure Cover
@@ -73,21 +73,21 @@ hide:
         - Rumor
         - Time's Arrows 
     
-    === 2nd Level
+    === "2"
     
         - Geodesic Shield
         - Repulsor Ring
         - Tasha's Mind Whip
         - Zone of Atmosphere 
     
-    === 3rd Level
+    === "3"
     
         - Conjure Canonball
         - Create Vacuum
         - Greater Mending
         - Hardlight Construction  
     
-    === 4th Level
+    === "4"
     
         - Earth Shattering Kaboom
         - Fabricate
@@ -95,14 +95,14 @@ hide:
         - Hunger of Earth
         - Polymorph
     
-    === 5th Level
+    === "5"
 
         - Bigsby Hand
         - Synaptic Static
         - Wall of Force
         - Wall of Light 
     
-    === 6th Level
+    === "6"
     
         - Arcane Capacitor
         - Chain Lightning
