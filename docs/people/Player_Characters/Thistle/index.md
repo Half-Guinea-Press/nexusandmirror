@@ -5,23 +5,16 @@ hide:
 ---
 # Thistle
 
-<div>
 ![Thistle](https://half-guinea-press.github.io/nexusandmirror/images/thistle_head.jpg){ align=left }
-Lvl  9 Wizard(School of Automata)<br>
-Pixe(Ignan)<br>
-</div>
+Lvl  9 School of Automata Wizard<br>
+Ignan Pixe<br>
+Tiny/Small<br>
+Chaotic Neutral<br>
+Exile Background
 
 <div class="grid cards" markdown>
 
--   <a href="https://half-guinea-press.github.io/nexusandmirror/images/thistle_full.jpg"><img src="https://half-guinea-press.github.io/nexusandmirror/images/thistle_head.jpg" alt="Thistle"></a>
-
--   Lvl  9 Wizard(School of Automata)<br>
-    Pixe(Ignan)<br>
-    Tiny/Small<br>
-    Chaotic Neutral<br>
-    Exile Background
-
-    Str 14(+2) Dex 17(+3) Con 17(+3)<br>
+-   Str 14(+2) Dex 17(+3) Con 17(+3)<br>
     Int 20(+5) Wis 16(+3) Chr 16(+3)
 
     Saves: Int +9 Wis +7<br>
