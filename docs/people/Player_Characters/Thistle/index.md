@@ -12,47 +12,49 @@ hide:
     Ignan Pixe Tiny/Small Chaotic Neutral<br>
     Exile Background
 
--   Str 14(+2) Dex 17(+3) Con 17(+3)<br>
-    Int 20(+5) Wis 16(+3) Chr 16(+3)
+- 
 
-    Saves: Int +9 Wis +7<br>
-    Spd: 15/40 fly 30/25 fly<br>
-    Init +3   AC: <br>
-    HP Max: 11d6+33  Hit Dice: 11d6
+    === "Abilities"
 
-    Proficiency Bonus +4
+        ---
+        Str 14(+2) Dex 17(+3) Con 17(+3)<br>
+        Int 20(+5) Wis 16(+3) Chr 16(+3)
+
+        Saves: Int +9 Wis +7<br>
+        Spd: 15/40 fly 30/25 fly<br>
+        Init +3   AC: <br>
+        HP Max: 11d6+33  Hit Dice: 11d6
     
-    Skills: Arcana(+9), Deception(+7), History(+9), Survival(+7), Technology(+9)
-
-    Tools: Machinist Tools
-
-    Weapons: Daggers, darts, slings, quarterstaffs, light crossbows<br>
-    Armor: none<br>
-
-    Languages: Common, Elven, Goblin, Sylvan
-
--   Features
-
-    === "Background/Feats"
+        Proficiency Bonus +4
+        
+        Skills: Arcana(+9), Deception(+7), History(+9), Survival(+7), Technology(+9)
     
-        - Exile Network
-        - Gift of the Gem Dragon
-        - Telekenetic
+        Tools: Machinist Tools
+    
+        Weapons: Daggers, darts, slings, quarterstaffs, light crossbows<br>
+        Armor: none<br>
+    
+        Languages: Common, Elven, Goblin, Sylvan
 
-    === "Racial"
+    === "Features"
+
+        ---
     
-        - Transformation
-        - Burning Spirit
-        - Pyromancy
- 
-    === "Wizard"
-    
-        - Arcane Recovery
-        - Spellcrafting
-        - Cantrip Formulas
-        - Engineering Savant
-        - Assault Programming
-        - Construct Upgrade
+        - Background/Feats
+            - Exile Network
+            - Gift of the Gem Dragon
+            - Telekenetic
+        - Racial    
+            - Transformation
+            - Burning Spirit
+            - Pyromancy
+         - Wizard
+            - Arcane Recovery
+            - Spellcrafting
+            - Cantrip Formulas
+            - Engineering Savant
+            - Assault Programming
+            - Construct Upgrade
 
 -   Companions
   
