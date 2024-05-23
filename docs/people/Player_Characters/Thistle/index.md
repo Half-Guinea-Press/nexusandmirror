@@ -5,12 +5,18 @@ hide:
 ---
 # Thistle
 
-<a href="https://half-guinea-press.github.io/nexusandmirror/images/thistle_full.jpg"><img src="https://half-guinea-press.github.io/nexusandmirror/images/thistle_head.jpg" alt="Thistle"></a><br>
-Lvl  9 School of Automata Wizard<br>
-Ignan Pixe<br>
-Tiny/Small<br>
-Chaotic Neutral<br>
-Exile Background
+<div class="contianer">
+  <div class="image">
+    <a href="https://half-guinea-press.github.io/nexusandmirror/images/thistle_full.jpg"><img src="https://half-guinea-press.github.io/nexusandmirror/images/thistle_head.jpg" alt="Thistle"></a>
+  </div>
+  <div class="text">
+    Lvl  9 School of Automata Wizard<br>
+    Ignan Pixe<br>
+    Tiny/Small<br>
+    Chaotic Neutral<br>
+    Exile Background
+  </div>
+</div>
 
 <div class="grid cards" markdown>
 
