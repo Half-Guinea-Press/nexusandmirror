@@ -111,23 +111,153 @@ hide:
 -   Familiar
 
     ---  
-    Tressym Familiar
+    Tressym Familiar<br>
+    Tiny Monstrosity, Any Alignment<br>
+    Armor Class 12<br>
+    Hit Points 5 (2d4)<br>
+    Speed 40 ft., climb 30 ft., fly 40 ft.<br>
+    STR	DEX	CON	INT	WIS	CHA<br>
+    3 (-4)	15 (+2)	10 (+0)	11 (+0)	12 (+1)	12 (+1)<br>
+    Skills Perception +5, Stealth +4<br>
+    Damage Immunities poison<br>
+    Condition Immunities poisoned<br>
+    Senses darkvision 60 ft., passive Perception 15<br>
+    Languages understands Common but can't speak<br>
+    Challenge 0 (10 XP) 	Proficiency Bonus +2<br>
+    Detect Invisibility. Within 60 feet of the tressym, magical invisibility fails to conceal anything from the tressym's sight.<br>
+    Familiar. With the DM's permission, a person who casts the find familiar spell can choose to conjure a tressym in stead of a normal cat.<br>
+    Keen Smell. The tressym has advantage on Wisdom (Perception) checks that rely on smell.<br>
+    Poison Sense. The tressym can detect whether a substance is poisonous by taste, touch, or smell.<br>
+    Actions<br>
+    Claws. Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 slashing damage.<br>
 
 -   Drones
 
     === "Defense"
-	
+
+        Defense Drone<br>
+        Tiny construct, unaligned<br>
+        Armor Class 12<br>
+        Hit Points 5 (2d4)<br>
+        Speed 0 ft., fly 40 ft. (hover)<br>
+        STR 7 (−2) DEX 14 (+2) CON 10 (+0)<br>
+        INT 4 (−3) WIS 9 (−1) CHA 3 (−4)<br>
+        Damage Immunities poison, psychic<br>
+        Condition Immunities blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone<br>
+        Senses blindsight 60 ft. (blind beyond this radius), passive Perception 9<br>
+        Languages —<br>
+        Challenge 1/8 (25 XP)<br>
+        Follow Protocol. Unless commanded to do otherwise, the drone follows its master, staying in the master's space, or as nearby as possible. The drone can move on its master's turn in order to follow in this way.<br>
+        Actions<br>
+        Integrated Blaster. Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (2d4) radiant damage.<br>
+        
+
     === "Medical"
-	
+
+        Medical Drone<br>
+        Tiny construct, unaligned<br>
+        Armor Class 12<br>
+        Hit Points 5 (2d4)<br>
+        Speed 0 ft., fly 40 ft. (hover)<br>
+        STR 7 (−2) DEX 14 (+2) CON 10 (+0)<br>
+        INT 4 (−3) WIS 9 (−1) CHA 3 (−4)<br>
+        Damage Immunities poison, psychic<br>
+        Condition Immunities blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone<br>
+        Senses blindsight 60 ft. (blind beyond this radius), passive Perception 9<br>
+        Languages —<br>
+        Challenge 0 (10 XP)<br>
+        Follow Protocol. Unless commanded to do otherwise, the drone follows its master, staying in the master's space, or as nearby as possible. The drone can move on its master's turn in order to follow in this way.<br>
+        Actions<br>
+        Revival Protocol (3/Day). The drone casts the cantrip spare the dying on a target it can reach, then restores 1d4 of the target's hit points.<br>
+        
+
     === "Recon"
-	
+
+        Recon Drone<br>
+        Tiny construct, unaligned<br>
+        Armor Class 12<br>
+        Hit Points 5 (2d4)<br>
+        Speed 0 ft., fly 40 ft. (hover)<br>
+        STR 7 (−2) DEX 14 (+2) CON 10 (+0)<br>
+        INT 4 (−3) WIS 9 (−1) CHA 3 (−4)<br>
+        Damage Immunities poison, psychic<br>
+        Condition Immunities blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone<br>
+        Senses blindsight 60 ft. (blind beyond this radius), passive Perception 9<br>
+        Languages —<br>
+        Challenge 0 (10 XP)<br>
+        Follow Protocol. Unless commanded to do otherwise, the drone follows its master, staying in the master's space, or as nearby as possible. The drone can move on its master's turn in order to follow in this way.<br>
+        Actions<br>
+        Surveillance Protocol. The drone creates a holographic marker above one target it can see within 60 feet until the beginning of the drone’s next turn. For that duration, attacks against the target can’t have disadvantage (unless the disadvantage is due to the Automatic property), and the target has disadvantage on checks made to hide.<br>
+
+
 -   Automatons
 
-    === "Mech. Spider"
+    === "General"
+
+        Automatons
+        
+        - Constructed Servants. All constructs are created to fulfill a purpose, and pose no threat unless specifically designed to do so.
+        - Limited Intelligence. With a limited memory for commands, each type of automaton must perform a specific task, and often fails if a task requires abstraction to accomplish.
+        - Constructed Nature. An automaton doesn't require air, food, drink, or sleep.
+
+	=== "Mech. Spider"
+
+        Mechanical Spider<br>
+        Small construct, unaligned<br>
+        Armor Class 13 <br>
+        Hit Points 3 (1d4 + 1)<br>
+        Speed 20 ft., climb 20 ft.<br>
+        STR 6 (−2) DEX 16 (+3) CON 12 (+1)<br>
+        INT 2 (−4) WIS 5 (−3) CHA 1 (−5)<br>
+        Damage Immunities poison, psychic<br>
+        Condition Immunities blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned<br>
+        Senses blindsight 60 ft. (blind beyond this radius), passive Perception 8<br>
+        Languages —<br>
+        Challenge 0 (10 XP)<br>
+        Death Burst. When a mechanical spider dies, it explodes in a burst of fire. Each creature within 5 feet of it must make a DC 13 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.<br>
+        Spider Climb. The mechanical spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.<br>
+        Actions<br>
+        Carry. The spider can pick up and carry or drop a single object weighing no more than 10 pounds.<br>
 
     === "Single Task"
 
+        Single Task Automaton<br>
+        Medium construct, lawful neutral<br>
+        Armor Class 13 (natural armor)<br>
+        Hit Points 39 (6d8 + 12)<br>
+        Speed 30 ft.<br>
+        STR 13 (+1) DEX 9 (−1) CON 15 (+2)<br>
+        INT 5 (−3) WIS 1 (−5) CHA 1 (−5)<br>
+        Damage Immunities poison, psychic<br>
+        Condition Immunities blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned<br>
+        Senses blindsight 60 ft. (blind beyond this radius), passive Perception 5<br>
+        Languages —<br>
+        Challenge 1 (200 XP)<br>
+        Difficult Terrain Susceptibility. Each foot this automaton travels in difficult terrain costs 3 feet.<br>
+        Mechanical Mind. The automaton can't be compelled to act in a manner contrary to its instructions.<br>
+        Actions<br>
+        Multiattack. The automaton makes three melee attacks.<br>
+        Improvised Weapon. Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage.<br>
+
     === "Multi-Task"
+
+        Multi-Task Automaton<br>
+        Medium construct, lawful neutral<br>
+        Armor Class 15 (natural armor)<br>
+        Hit Points 85 (10d8 + 40)<br>
+        Speed 30 ft.<br>
+        STR 17 (+3) DEX 11 (+0) CON 19 (+4)<br>
+        INT 7 (−2) WIS 5 (−3) CHA 1 (−5)<br>
+        Damage Immunities poison, psychic<br>
+        Condition Immunities blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned<br>
+        Senses blindsight 60 ft. (blind beyond this radius), passive Perception 7<br>
+        Languages —<br>
+        Challenge 3 (700 XP)<br>
+        Mechanical Mind. The automaton can't be compelled to act in a manner contrary to its instructions.<br>
+        Actions<br>
+        Multiattack. The automaton makes three attacks: two with its morningstar and one with its slam.<br>
+        Morningstar. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.<br>
+        Slam. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) bludgeoning damage<br>
 
 </div>
 
@@ -333,131 +463,3 @@ At 10th level, whenever you assemble a construct, you can apply one of the follo
 - Alloy Chassis. The construct's AC is increased by 2.
 - Energy Plating. The construct has resistance to one damage type of your choice.
 - High-Torque Motors. The construct's speed increases by 10 feet.
-## Perfected Core
-By 14th level, you have perfected the construct cores that animate and control your automatons. You use your action to assume direct control of one of your constructs: when you do so, you can see through its senses, designate exactly where it will move, and choose what action it will take. While controlling a construct directly, if you command it to attack, it can make multiple attacks if it has the Multiattack trait.
-
-Defense Drone
-Tiny construct, unaligned
-Armor Class 12
-Hit Points 5 (2d4)
-Speed 0 ft., fly 40 ft. (hover)
-STR 7 (−2) DEX 14 (+2) CON 10 (+0)
-INT 4 (−3) WIS 9 (−1) CHA 3 (−4)
-Damage Immunities poison, psychic
-Condition Immunities blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone
-Senses blindsight 60 ft. (blind beyond this radius), passive Perception 9
-Languages —
-Challenge 1/8 (25 XP)
-Follow Protocol. Unless commanded to do otherwise, the drone follows its master, staying in the master's space, or as nearby as possible. The drone can move on its master's turn in order to follow in this way.
-Actions
-Integrated Blaster. Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (2d4) radiant damage.
-
-Medical Drone
-Tiny construct, unaligned
-Armor Class 12
-Hit Points 5 (2d4)
-Speed 0 ft., fly 40 ft. (hover)
-STR 7 (−2) DEX 14 (+2) CON 10 (+0)
-INT 4 (−3) WIS 9 (−1) CHA 3 (−4)
-Damage Immunities poison, psychic
-Condition Immunities blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone
-Senses blindsight 60 ft. (blind beyond this radius), passive Perception 9
-Languages —
-Challenge 0 (10 XP)
-Follow Protocol. Unless commanded to do otherwise, the drone follows its master, staying in the master's space, or as nearby as possible. The drone can move on its master's turn in order to follow in this way.
-Actions
-Revival Protocol (3/Day). The drone casts the cantrip spare the dying on a target it can reach, then restores 1d4 of the target's hit points.
-
-Recon Drone
-Tiny construct, unaligned
-Armor Class 12
-Hit Points 5 (2d4)
-Speed 0 ft., fly 40 ft. (hover)
-STR 7 (−2) DEX 14 (+2) CON 10 (+0)
-INT 4 (−3) WIS 9 (−1) CHA 3 (−4)
-Damage Immunities poison, psychic
-Condition Immunities blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone
-Senses blindsight 60 ft. (blind beyond this radius), passive Perception 9
-Languages —
-Challenge 0 (10 XP)
-Follow Protocol. Unless commanded to do otherwise, the drone follows its master, staying in the master's space, or as nearby as possible. The drone can move on its master's turn in order to follow in this way.
-Actions
-Surveillance Protocol. The drone creates a holographic marker above one target it can see within 60 feet until the beginning of the drone’s next turn. For that duration, attacks against the target can’t have disadvantage (unless the disadvantage is due to the Automatic property), and the target has disadvantage on checks made to hide.
-
-# Automatons
-Automatons represent a vast array of specialized mechanized servants, imbued by their construct cores with motion and limited reason.
-## Constructed Servants. 
-All constructs are created to fulfill a purpose, and pose no threat unless specifically designed to do so. Certain constructs, such as golems and shield guardians, might be designed with heavy armor and weapons for combat, but the vast majority are laborers with simple and specific duties. Maw spaceports are cleaned by one type of automation and ships are 
-refueled by another. By and large, constructs are abundant, obedient, and relatively inexpensive.
-Automatons recognize their owners by means of a command word and regard all other creatures as neutral agents, which are either ignored or treated with hostility, depending on their commands.
-## Limited Intelligence. 
-With a limited memory for commands, each type of automaton must perform a specific task, and often fails if a task requires abstraction to accomplish. They find it challenging, if not outright impossible, to improvise solutions or deal with 
-paradoxical instructions, so an automaton's owner should be extremely careful with their commands.The possibility for greater intelligence in an automaton is not unheard-of, it's merely a matter of sophisticated magic. The vect are demonstrable proof that truly intelligent constructs can be created, and are simultaneously the reason for the paranoia and dread surrounding the idea of sentient constructs. Many believe that it's only a matter of time before legions of worker 
-constructs are awakened to revolt against their living overlords.
-## Infection. 
-Because of a deep flaw in the design of all construct cores, automatons are vulnerable to a constructspecific magical disease: the N-Virus. A construct infected with the N-Virus shows few signs at first, only minor malfunctions and momentary instances of faulty logic as it spreads to other machines. Soon, however, the virus shows its face, turning all infected constructs into a band of killing machines.
-Instances of the N-Virus are rare, and are typically combated with machine quarantines and systematic construct decommissions. However, N-Virus constructs tend to be cleverer than their limited counterparts and have a knack for escaping to spread the virus further.
-## Constructed Nature. 
-An automaton doesn't require air, food, drink, or sleep.
-## Mechanical Spider
-Nimble scouts and couriers, mechanical spiders are an invaluable tool for mechanists and noblemen. Though simple constructs, mechanical spiders are entrusted with sensitive deliveries, as they come with a crude, yet effective, failsafe: when tampered with, mechanical spiders simply explode. The spiders lack offensive capabilities unless extensively modified and are extremely frail, but are irreplaceable to those who trust them with deliveries and confidential information.
-Moreover, mechanical spiders can fold down into an extremely compact package, allowing them to be deployed from one-time use spider pods.
-## Single Task Automaton
-Designed with but one purpose in mind, the Single Task Automaton (STA) is the simplest and most abundant construct used for labor. This automaton is normally constructed in a cylindrical or rectangular wheeled chassis, with at least three mechanical arms bearing tools related to its purpose. A cleaning STA might have a broom and feather duster, whereas a manufacturing STA might have a screwdriver and a small welding torch.
- To operate, each of these constructs is given an explicit task, which must follow an uncomplicated algorithm with clear beginning and end conditions. Automatons don't have a true understanding of their tasks, so improperly programming them can result in dangerously aberrant behavior.
-## Multi-Task Automaton
-Though far from intelligent, a Multi-Task Automaton (MTA) can handle slightly more complex tasks than other constructs and is given general-purpose manipulators capable of carrying and operating a wide-variety of tools, including conventional weapons. Moreover, an MTA is bipedal, allowing it to navigate difficult terrain. Unlike an STA, an MTA can be reprogrammed with new tasks often, and, though it is still incapable of abstraction, an MTA can perform relatively complex operations. An MTA might, for example, be set up to run a small shop, programmed to take people's coats, or be tasked 
-with preparing a meal.
-
-# Mechanical Spider
-Small construct, unaligned
-Armor Class 13 
-Hit Points 3 (1d4 + 1)
-Speed 20 ft., climb 20 ft.
-STR 6 (−2) DEX 16 (+3) CON 12 (+1)
-INT 2 (−4) WIS 5 (−3) CHA 1 (−5)
-Damage Immunities poison, psychic
-Condition Immunities blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
-Senses blindsight 60 ft. (blind beyond this radius), passive Perception 8
-Languages —
-Challenge 0 (10 XP)
-Death Burst. When a mechanical spider dies, it explodes in a burst of fire. Each creature within 5 feet of it must make a DC 13 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
-Spider Climb. The mechanical spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
-Actions
-Carry. The spider can pick up and carry or drop a single object weighing no more than 10 pounds.
-
-# Single Task Automaton
-Medium construct, lawful neutral
-Armor Class 13 (natural armor)
-Hit Points 39 (6d8 + 12)
-Speed 30 ft.
-STR 13 (+1) DEX 9 (−1) CON 15 (+2)
-INT 5 (−3) WIS 1 (−5) CHA 1 (−5)
-Damage Immunities poison, psychic
-Condition Immunities blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
-Senses blindsight 60 ft. (blind beyond this radius), passive Perception 5
-Languages —
-Challenge 1 (200 XP)
-Difficult Terrain Susceptibility. Each foot this automaton travels in difficult terrain costs 3 feet.
-Mechanical Mind. The automaton can't be compelled to act in a manner contrary to its instructions.
-Actions
-Multiattack. The automaton makes three melee attacks.
-Improvised Weapon. Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage.
-
-# Multi-Task Automaton
-Medium construct, lawful neutral
-Armor Class 15 (natural armor)
-Hit Points 85 (10d8 + 40)
-Speed 30 ft.
-STR 17 (+3) DEX 11 (+0) CON 19 (+4)
-INT 7 (−2) WIS 5 (−3) CHA 1 (−5)
-Damage Immunities poison, psychic
-Condition Immunities blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
-Senses blindsight 60 ft. (blind beyond this radius), passive Perception 7
-Languages —
-Challenge 3 (700 XP)
-Mechanical Mind. The automaton can't be compelled to act in a manner contrary to its instructions.
-Actions
-Multiattack. The automaton makes three attacks: two with its morningstar and one with its slam.
-Morningstar. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
-Slam. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) bludgeoning damage
