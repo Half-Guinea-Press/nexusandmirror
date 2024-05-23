@@ -9,19 +9,17 @@ hide:
 
 -   <a href="https://half-guinea-press.github.io/nexusandmirror/images/thistle_full.jpg"><img src="https://half-guinea-press.github.io/nexusandmirror/images/thistle_head.jpg" alt="Thistle"></a>
 
--   Lvl  9 Wizard(School of Automata) / Lvl 2 Cleric(Void Domain)<br>
-    Pixe(Ignan)    Tiny/Small    Chaotic Neutral    Background
+-   Lvl  9 Wizard(School of Automata) Pixe(Ignan)<br>
+    Tiny/Small    Chaotic Neutral    Background
 
     Str 14(+2) Dex 17(+3) Con 17(+3)<br>
     Int 20(+5) Wis 16(+3) Chr 16(+3)
 
     Saves: Int +9 Wis +7<br>
+    Prof: +4 Init: + Spd: 15/40 fly 30/25 fly<br>
+    AC: HP Max: 11d6+33  Hit Dice: 11d6
 
-    Prof: +4 Init: + Spd: 15/40 fly 30/25 fly AC: <br>
-    HP Max: 11d6+33  Hit Dice: 11d6
-
--   Skills: Arcana(+9), History(+9), Technology(+9)
-
+-   Skills: Arcana(+9), History(+9), Technology(+9)<br>
     Weapons: Daggers, darts, slings, quarterstaffs, light crossbows<br>
     Armor: none<br>
     Tools: Machinist Tools<br>
@@ -37,14 +35,10 @@ hide:
         - Transformation
         - Burning Spirit
         - Pyromancy
-
--   Wizard Features
-
-    ---
-    - Arcane Recovery
-    - Spellcrafting
-    - Arcane Tradition(School of Automata)
-    - Cantrip Formulas
+    - Wizard Features
+        - Arcane Recovery
+        - Spellcrafting
+        - Cantrip Formulas
 	
 -   School of automata
 
@@ -63,7 +57,12 @@ hide:
         - High-Torque Motors
 
 -   Companions
+  
     ---
+    - (Tressym Familiar)
+    - (Engineering Savant Slot 1)
+    - (Engineering Savant Slot 2)
+    - (Engineering Savant Slot 3)
 </div>
 
 Spellbook
@@ -73,20 +72,13 @@ Spellbook
 -   Cantrips
 
     ---
-    - Light
+    - Firebolt
+    - Hardlight Needle
     - Mage Hand
     - Message
     - Minor Illusion
-    - Technomancy
-
--   Combat Cantrips
-
-    ---
-    - Firebolt
-    - Hardlight Needle
-    - Minor Life Steal
     - Shocking Grasp
-    - Toll the Dead
+    - Technomancy
 
 -   1st Level
 
@@ -139,14 +131,7 @@ Spellbook
     - Arcane Capacitor
     - Chain Lightning
     - Disintegrate
-    - Soul Cage
-    - Teleros' Terrific Transport
 
--   7th Level
-
-    ---
-    - Finger of Death
-    - Teleport
 </div>
 
 Pixie Traits
