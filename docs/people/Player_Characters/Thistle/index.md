@@ -20,7 +20,9 @@ hide:
     Init +3   AC: <br>
     HP Max: 11d6+33  Hit Dice: 11d6
 
--   Proficiencies<br>
+-   Proficiencies
+
+    ---
     Proficiency Bonus +4
     
     Skills: Arcana(+9), Deception(+7), History(+9), Survival(+7), Technology(+9)
