@@ -31,7 +31,11 @@ hide:
 
     Feats:
 
+    - Gift of the Gem Dragon
+    - Telekenetic
+
     Racial Features
+    
     - Transformation
     - Burning Spirit
     - Pyromancy
