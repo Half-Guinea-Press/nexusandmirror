@@ -9,54 +9,47 @@ hide:
 
 -   <a href="https://half-guinea-press.github.io/nexusandmirror/images/thistle_full.jpg"><img src="https://half-guinea-press.github.io/nexusandmirror/images/thistle_head.jpg" alt="Thistle"></a>
 
--   Lvl  9 Wizard(School of Automata) Pixe(Ignan)<br>
-    Tiny/Small    Chaotic Neutral    Exile Background
+-   Lvl  9 Wizard(School of Automata)<br>
+    Pixe(Ignan)<br>
+    Tiny/Small<br>
+    Chaotic Neutral<br>
+    Exile Background
 
     Str 14(+2) Dex 17(+3) Con 17(+3)<br>
     Int 20(+5) Wis 16(+3) Chr 16(+3)
 
     Saves: Int +9 Wis +7<br>
-    Prof: +4 Init: + Spd: 15/40 fly 30/25 fly<br>
-    AC: HP Max: 11d6+33  Hit Dice: 11d6
+    Spd: 15/40 fly 30/25 fly<br>
+    Init +3   AC: <br>
+    HP Max: 11d6+33  Hit Dice: 11d6
 
--   Skills: Arcana(+9), Deception(+7), History(+9), Survival(+7), Technology(+9)<br>
+-   Proficiencies<br>
+    Proficiency Bonus +4
+    
+    Skills: Arcana(+9), Deception(+7), History(+9), Survival(+7), Technology(+9)
+
+    Tools: Machinist Tools
+
     Weapons: Daggers, darts, slings, quarterstaffs, light crossbows<br>
     Armor: none<br>
-    Tools: Machinist Tools<br>
+
     Languages: Common, Elven, Goblin, Sylvan
 
 -   Features
 
     ---
-    - Background Feature:
-        - Exile Network
-    - Feats
-        - Gift of the Gem Dragon
-        - Telekenetic
-    - Racial Features
-        - Transformation
-        - Burning Spirit
-        - Pyromancy
-    - Wizard Features
-        - Arcane Recovery
-        - Spellcrafting
-        - Cantrip Formulas
-	
--   School of automata
-
-    ---
+    - Exile Network
+    - Gift of the Gem Dragon
+    - Telekenetic
+    - Transformation
+    - Burning Spirit
+    - Pyromancy
+    - Arcane Recovery
+    - Spellcrafting
+    - Cantrip Formulas
     - Engineering Savant
-        - Defense Drone
-        - Mechanical Spider
-        - Medical Drone
-        - Recone Drone
-        - Single Task Automaton
-        - Multi-Task Automaton
     - Assault Programming
     - Construct Upgrade
-        - Alloy Chasis
-        - Energy Plating
-        - High-Torque Motors
 
 -   Companions
   
