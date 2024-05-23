@@ -108,27 +108,26 @@ hide:
         - Chain Lightning
         - Disintegrate
 
-</div>
-
-<div class="grid cards" markdown>
-
 -   Familiar
-  
+
+    ---  
     Tressym Familiar
 
--   Engineering Savant (up to 3)
+-   Drones
 
     === "Defense Drone"
 	
-	=== "Mechanical Spider"
+    === "Medical Drone"
 	
-	=== "Medical Drone"
+    === "Recon Drone"
 	
-	=== "Recon Drone"
-	
-	=== "Single Task Automaton"
-	
-	=== "Multi-Task Automaton"
+-   Automatons
+
+    === "Single Task Automaton"
+
+    === "Mechanical Spider"
+
+    === "Multi-Task Automaton"
 
 </div>
 
