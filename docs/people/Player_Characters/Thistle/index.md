@@ -58,67 +58,73 @@ Spellbook
     ---
     - Firebolt
     - Hardlight Needle
-    - Technomancy
+    - Light
     - Mage Hand
-    - Minor Illusion
     - Message
+    - Minor Illusion
+    - Minor Life Steal
+    - Shocking Grasp
+    - Technomancy
+    - Toll the Dead 
 
 -   1st Level
 
     ---
     - Acceleration/Decceleration
     - Conjure Cover
-    - Rumor
-    - Time's Arrows
-    - Find Familiar
     - Feather Fall
+    - Find Familiar
+    - Lashing Tendrils
     - Mage Armor
-    - 
+    - Rumor
+    - Time's Arrows 
 
 -   2nd Level
 
     ---
     - Geodesic Shield
     - Repulsor Ring
-    - Zone of Atmosphere
-    - 
+    - Tasha's Mind Whip
+    - Zone of Atmosphere 
 
 -   3rd Level
 
     ---
-    - Hardlight Construction
-    - Greater Mending
+    - Conjure Canonball
     - Create Vacuum
-    - Conjure Canonball 
+    - Greater Mending
+    - Hardlight Construction  
 
 -   4th Level
 
     ---
     - Earth Shattering Kaboom
-    - Hunger of Earth
     - Fabricate
-    - Halucinary Terrain
+    - Halucinary Terrain 
+    - Hunger of Earth
+    - Polymorph
 
 -   5th Level
 
     --
     - Bigsby Hand
+    - Synaptic Static
     - Wall of Force
-    - Wall of Light
-    - 
+    - Wall of Light 
 
 -   6th Level
 
     ---
     - Arcane Capacitor
-    - Teleros' Terrific Transport
-    - Soul Cage
+    - Chain Lightning
     - Disintegrate
+    - Soul Cage
+    - Teleros' Terrific Transport
 
 -   7th Level
 
     ---
-    - Astrogation
+    - Finger of Death
     - Teleport
 </div>
 
