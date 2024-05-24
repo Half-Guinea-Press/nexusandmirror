@@ -97,7 +97,7 @@ hide:
     
     === "5"
 
-        - [Bigsby Hand](spellbook/bigsby_hand.md)
+        - [Bigsby Hand](spellbook/bigbys_hand.md)
         - [Synaptic Static](spellbook/synaptic_static.md)
         - [Wall of Force](spellbook/wall_of_force.md)
         - [Wall of Light](spellbook/wall_of_light.md)
