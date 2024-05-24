@@ -89,7 +89,7 @@ hide:
     
     === "4"
     
-        - [Earth Shattering Kaboom](spellbook/earth)shattering_kaboom.md)
+        - [Earth Shattering Kaboom](spellbook/earth_shattering_kaboom.md)
         - [Fabricate](spellbook/fabricate.md)
         - [Hallucinatory Terrain](spellbook/hallucinatory_terrain.md)
         - [Hunger of Earth](spellbook/hunger_of_earth.md)
