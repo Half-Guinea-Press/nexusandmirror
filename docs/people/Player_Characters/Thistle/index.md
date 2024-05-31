@@ -49,6 +49,14 @@ hide:
         - Assault Programming
         - Construct Upgrade
 
+    === "Spell Slots"
+    
+        - 1st lvl 4
+        - 2nd lvl 3
+        - 3rd lvl 3
+        - 4th lvl 3
+        - 5th lvl 2
+        - 6th lvl 1
 
 -   Spellbook
 
